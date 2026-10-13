@@ -1,0 +1,50 @@
+{
+  "thomasville-nc": {
+    "src": "/assets/area-thomasville.webp",
+    "alt": "Downtown Thomasville",
+    "author": "Indy beetle",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Thomasville,_North_Carolina_02.jpg"
+  },
+  "lexington-nc": {
+    "src": "/assets/area-lexington.webp",
+    "alt": "South Main Street in Lexington",
+    "author": "Kenneth C. Zirkel",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Lexington,_North_Carolina_Main_Street.jpg"
+  },
+  "davidson-county-nc": {
+    "src": "/assets/area-davidson-county.webp",
+    "alt": "Davidson County Courthouse in Lexington",
+    "author": "Dennis Brown",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Davidson_County_NC_Courthouse.jpg"
+  },
+  "high-point-nc": {
+    "src": "/assets/area-high-point.webp",
+    "alt": "Downtown High Point",
+    "author": "Exwhysee",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:HighPoint,NC.jpg"
+  },
+  "winston-salem-nc": {
+    "src": "/assets/area-winston-salem.webp",
+    "alt": "Winston-Salem skyline",
+    "author": "Indy beetle",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Winston-Salem_skyline.jpg"
+  },
+  "archdale-nc": {
+    "src": "/assets/area-archdale.webp",
+    "alt": "Historic Moses Hammond House in Archdale",
+    "author": "Jerrye & Roy Klotz, MD",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:MOSES_HAMMOND_HOUSE;_RANDOLPH_COUNTY.jpg"
+  }
+}

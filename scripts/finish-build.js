@@ -1,0 +1,11 @@
+const fs=require('node:fs');const site=require('../config/site');const b=require('../config/brokerage');const c=require('../lib/content');
+const guides=c.guides();const all=[...c.pages.map(p=>({url:p.url,dateModified:p.dateModified||site.dateModified})),...guides.map(g=>({url:`/guides/${g.slug}/`,dateModified:g.dateModified}))];
+const xmlEscape=s=>s.replaceAll('&','&amp;').replaceAll('<','&lt;');
+fs.writeFileSync('dist/sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${all.map(p=>`<url><loc>${xmlEscape(site.origin+p.url)}</loc><lastmod>${p.dateModified}</lastmod></url>`).join('')}</urlset>`);
+fs.writeFileSync('dist/robots.txt',['Googlebot','bingbot','OAI-SearchBot','ChatGPT-User','PerplexityBot','Claude-SearchBot','Claude-User','Amazonbot','CCBot','*'].map(bot=>`User-agent: ${bot}\nAllow: /\n`).join('\n')+`\nSitemap: ${site.origin}/sitemap.xml\n`);
+fs.writeFileSync('dist/llms.txt',`# Toby Russell — Triad North Carolina real estate\n\nToby Russell is a REALTOR® and North Carolina real estate broker, license ${site.license}, licensed since ${site.licensedSince}, affiliated with ${b.brokerageName}. His telephone number is ${site.phone}. His office of record is ${b.brokerageOfficeAddress}.\n\nHe serves ${site.markets.join(', ')} in North Carolina. He helps with traditional listings, buyer representation, relocation, new construction, and traditional home sales. No purchase offer or outcome is guaranteed.\n\nSite: ${site.origin}\n## Guides\n\n${guides.map(g=>`- [${g.title.split(' | ')[0]}](${site.origin}/guides/${g.slug}/): ${g.description}`).join('\n')}\n\n## Site sections\n\n- [Area guides](${site.origin}/areas/)\n- [Contact](${site.origin}/contact/)\n- [About Toby](${site.origin}/about/)\n- [Search explanation](${site.origin}/search/) — property search opens the brokerage platform.\n`);
+fs.copyFileSync('dist/404/index.html','dist/404.html');console.log('Generated sitemap, robots, llms and static 404.');
+
+fs.writeFileSync('dist/.nojekyll','');
+const customDomain=process.env.CUSTOM_DOMAIN;
+if(customDomain){if(!/^[a-z0-9.-]+$/.test(customDomain)||customDomain!==new URL(site.origin).hostname)throw Error('CUSTOM_DOMAIN must match SITE_ORIGIN');fs.writeFileSync('dist/CNAME',customDomain+'\n');}else if(fs.existsSync('dist/CNAME'))fs.unlinkSync('dist/CNAME');

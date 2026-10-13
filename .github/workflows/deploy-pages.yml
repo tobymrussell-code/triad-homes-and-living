@@ -1,0 +1,44 @@
+name: Deploy Triad Homes and Living
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - run: npm ci
+      - name: Build static HTML for the actual Pages URL
+        run: npm run build
+        env:
+          SITE_ORIGIN: ${{ steps.pages.outputs.origin }}${{ steps.pages.outputs.base_path }}
+          CUSTOM_DOMAIN: ${{ vars.CUSTOM_DOMAIN }}
+      - name: Check the generated site
+        run: npm run verify
+        env:
+          SITE_ORIGIN: ${{ steps.pages.outputs.origin }}${{ steps.pages.outputs.base_path }}
+      - name: Upload static website only
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
