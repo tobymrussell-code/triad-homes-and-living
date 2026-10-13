@@ -2,7 +2,7 @@ module.exports = {
   name: 'Toby Russell', title: 'REALTOR®', license: '305135', licensedSince: '2016',
   phone: '336-203-8961', email: null,
   // Replace with your confirmed own-domain address. Null renders an honest placeholder.
-  origin: (process.env.SITE_ORIGIN || 'https://tobymrussell-code.github.io/triad-homes-and-living').replace(/\/$/, ''),
+  origin: (process.env.SITE_ORIGIN || 'https://tobymrussell-code.github.io/triad-homes-and-living').replace(/^http:/, 'https:').replace(/\/$/, ''),
   // The deployment workflow supplies the active hosting origin.
   // Purchased custom domain: triadhomesliving.com. Keep the Pages URL until DNS is connected.
   image: '/assets/toby-headshot.webp', imageWidth: 1280, imageHeight: 1280,
