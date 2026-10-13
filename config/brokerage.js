@@ -8,6 +8,7 @@ module.exports = {
   brokerageLogoWidth: 315, brokerageLogoHeight: 125,
   brokerageLogoProvided: true, // Set true after dropping in the exact approved logo.
   brokerageOfficeAddress: '500 W 5th Street, Winston Salem, NC 27101',
+  brokeragePostalAddress: {streetAddress: '500 W 5th Street', addressLocality: 'Winston-Salem', addressRegion: 'NC', postalCode: '27101', addressCountry: 'US'},
   brokerageDisclosure: `Toby Russell is a licensed real estate broker in North Carolina affiliated with ${brokerageName}.`,
   homeSearchUrl: 'https://tobyrussell.northgroupre.com/',
   homeValuationUrl: 'https://tobyrussell.northgroupre.com/sell.php',

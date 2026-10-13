@@ -1,5 +1,5 @@
 const fs=require('node:fs');const site=require('../config/site');const b=require('../config/brokerage');const c=require('../lib/content');
-const guides=c.guides();const all=[...c.pages.map(p=>({url:p.url,dateModified:p.dateModified||site.dateModified})),...guides.map(g=>({url:`/guides/${g.slug}/`,dateModified:g.dateModified}))];
+const guides=c.guides();const all=[...c.pages.filter(p=>p.slug!=='404').map(p=>({url:p.url,dateModified:p.dateModified||site.dateModified})),...guides.map(g=>({url:`/guides/${g.slug}/`,dateModified:g.dateModified}))];
 const xmlEscape=s=>s.replaceAll('&','&amp;').replaceAll('<','&lt;');
 fs.writeFileSync('dist/sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${all.map(p=>`<url><loc>${xmlEscape(site.origin+p.url)}</loc><lastmod>${p.dateModified}</lastmod></url>`).join('')}</urlset>`);
 fs.writeFileSync('dist/robots.txt',['Googlebot','bingbot','OAI-SearchBot','ChatGPT-User','PerplexityBot','Claude-SearchBot','Claude-User','Amazonbot','CCBot','*'].map(bot=>`User-agent: ${bot}\nAllow: /\n`).join('\n')+`\nSitemap: ${site.origin}/sitemap.xml\n`);

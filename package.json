@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "eleventy && node scripts/finish-build.js",
+    "build": "eleventy && node scripts/responsive-images.js && node scripts/finish-build.js",
     "dev": "eleventy --serve",
     "verify": "node scripts/verify.js"
   },
