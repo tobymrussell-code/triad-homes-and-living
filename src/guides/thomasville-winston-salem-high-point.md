@@ -50,3 +50,11 @@ Compare the condition, layout, lot, and maintenance obligations at each home. Ge
 ## What should your short list look like?
 
 Keep the homes that fit your routes and essential needs, then investigate their records and costs. Write a short reason for keeping each one. If you can’t explain why it fits, another listing photo probably won’t help.
+
+## Use one scorecard for all three towns
+
+Compare candidate properties in Thomasville, Winston-Salem, and High Point at the same overall ownership budget. Record commute variability, repairs, lot and parking needs, local services, and neighborhood fit. Drive the routes at the hours you normally travel. Then choose the property and location that together best support your routine.
+
+## Local resources and next steps
+
+Continue with [triad commute map](/guides/triad-commute-map/), [thomasville vs lexington nc](/guides/thomasville-vs-lexington-nc/), [buying home north carolina](/guides/buying-home-north-carolina/). Explore the [Triad area guides](/areas/) or [contact Toby for property-specific guidance](/contact/). Call or text **336-203-8961**. Confirm current prices, regulations, and property details from reliable sources before acting.
