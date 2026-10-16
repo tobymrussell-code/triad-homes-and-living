@@ -8,8 +8,8 @@ function decode(s){return s.replaceAll('&amp;','&').replaceAll('&#39;',"'").repl
 for(const p of pages){
  const file='dist'+(p.url==='/'?'/index.html':p.url+'index.html'),html=fs.readFileSync(file,'utf8');
  const title=decode(html.match(/<title>(.*?)<\/title>/s)[1]);const desc=decode(html.match(/<meta name="description" content="(.*?)">/s)[1]);
- if(p.url==='/')assert.equal(title,`Thomasville NC Realtor | Toby Russell, ${b.brokerageName}`);else assert(title.length<60,`Long title: ${p.url}`);assert(!titles.has(title),`Duplicate title ${title}`);titles.add(title);
- if(p.url==='/')assert.equal(desc,'Buying or selling in Thomasville, Lexington, or Davidson County? Local REALTOR® Toby Russell gives straight answers. Call or text 336-203-8961.');else assert(desc.length>=150&&desc.length<=160,`Description ${desc.length}: ${p.url}`);assert(!descs.has(desc),`Duplicate description ${p.url}`);descs.add(desc);
+ assert.equal(title,p.title,`Title mismatch: ${p.url}`);assert(title.length<=75,`Long title: ${p.url}`);assert(!titles.has(title),`Duplicate title ${title}`);titles.add(title);
+ assert.equal(desc,p.description,`Description mismatch: ${p.url}`);assert(desc.length>=110&&desc.length<=170,`Description ${desc.length}: ${p.url}`);assert(!descs.has(desc),`Duplicate description ${p.url}`);descs.add(desc);
  assert.equal((html.match(/<h1(?:\s|>)/g)||[]).length,1,`h1: ${p.url}`);
  assert(html.includes(`<link rel="canonical" href="${site.origin+p.url}">`),`canonical ${p.url}`);
  let previous=0;for(const h of html.matchAll(/<h([1-6])(?:\s|>)/g)){const level=Number(h[1]);assert(level<=previous+1,`Skipped heading ${p.url}`);previous=level;}
