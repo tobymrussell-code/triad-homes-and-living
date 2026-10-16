@@ -49,3 +49,11 @@ Schedule records review and inspections around the deadlines in your signed agre
 ## Who should answer a legal or technical question?
 
 Use a North Carolina attorney for legal questions and a qualified specialist for technical ones. Your agent can coordinate the investigation. Don’t ask a quick internet search to do the work of a survey, inspection, or title review.
+
+## Document each verification step
+
+For each shortlisted home, compare seller disclosures, property records, and inspection findings. Confirm roof, drainage, foundations, permitted additions, boundaries, HOA rules, and rural well or septic systems as appropriate. Track contractual deadlines and consult your agent and a North Carolina attorney about questions before committing funds.
+
+## Local resources and next steps
+
+Continue with [buying home north carolina](/guides/buying-home-north-carolina/), [due diligence fees nc](/guides/due-diligence-fees-nc/). Explore the [Triad area guides](/areas/) or [contact Toby for property-specific guidance](/contact/). Call or text **336-203-8961**. Confirm current prices, regulations, and property details from reliable sources before acting.
