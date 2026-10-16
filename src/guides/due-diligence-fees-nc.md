@@ -52,3 +52,11 @@ Verify the signed payment terms and recipient directly through trusted contact i
 ## Where should you read the official guidance?
 
 Start with the [North Carolina Real Estate Commission’s fee explanation](https://bulletins.ncrec.gov/due-diligence-fees-when-must-they-be-deposited/) and [consumer publications](https://www.ncrec.gov/Publications/Publications). The fee article was published in October 2019; do not treat its payment instructions or clause numbers as a substitute for your current contract.
+
+## How to plan your offer funds
+
+Write down the due diligence fee, earnest-money deposit, inspection budget, lender appraisal costs, and expected closing cash separately. Ask your agent and closing attorney how the specific contract handles each payment and the consequences of missing a deadline. A seller's acceptance does not automatically mean your inspections or financing will work out. Make the offer only after considering the risk that your due diligence fee may not be returned in many termination situations.
+
+## Related local resources and next steps
+
+For more background, read [buying home north carolina](/guides/buying-home-north-carolina/), [north carolina buyer beware](/guides/north-carolina-buyer-beware/). You can also explore [Triad area guides](/areas/) or [ask Toby about your specific home or move](/contact/). For a quick conversation, call or text **336-203-8961**. Local pricing, taxes, legal requirements, and property condition should be confirmed against current records before making decisions.
