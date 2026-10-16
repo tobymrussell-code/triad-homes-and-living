@@ -49,3 +49,11 @@ Avoid promising system capacity, suitability for an addition, or approval for a 
 ## How does this affect preparation for buyers?
 
 Organize the records and explain known concerns accurately through your agent. Allow for access and specialist scheduling. Buyers can make better decisions when the information is clear and property-specific.
+
+## Reduce surprises with reliable system records
+
+Gather available septic permits, well records, repair invoices, and inspection history. Ask Davidson County officials or qualified professionals about documented capacity and proposed changes; do not assume a system supports an addition. Decide with your agent whether pre-listing assessments would help buyers evaluate the property.
+
+## Local resources and next steps
+
+Continue with [selling house needs repairs nc](/guides/selling-house-needs-repairs-nc/), [moving to wallburg welcome nc](/guides/moving-to-wallburg-welcome-nc/). Explore the [Triad area guides](/areas/) or [contact Toby for property-specific guidance](/contact/). Call or text **336-203-8961**. Confirm current prices, regulations, and property details from reliable sources before acting.
