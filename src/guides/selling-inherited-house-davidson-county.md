@@ -17,8 +17,8 @@
     "pricing-triad-home"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-10-12",
-  "editorialStatus": "starter-draft",
+  "dateModified": "2026-10-15",
+  "editorialStatus": "expanded-review-needed",
   "faq": [
     {
       "question": "Can this guide determine who owns the house?",
@@ -53,6 +53,28 @@ Base the timeline on legal readiness, property work, market preparation, and clo
 ## Gather these records before setting a timeline
 
 Locate the deed, estate documents, mortgage balance, tax information, insurance, keys, surveys, and maintenance records. Ask a North Carolina attorney to verify who can sign and what approvals are required. Then budget cleanout and repairs and compare sale options. Estate and family decisions may affect timing more than typical marketing preparation.
+
+## Can an inherited house be sold before probate is complete?
+
+The answer depends on how title is held, whether the estate administration is required, and who has legal authority to transfer the property. A deed, will, family agreement, or tax bill by itself does not always establish the right person to sign a sale contract. Have a North Carolina attorney or the appropriate estate professional review the documents before making a binding commitment.
+
+For local guidance and court processes, start with the [North Carolina Judicial Branch estates information](https://www.nccourts.gov/help-topics/wills-and-estates) and the relevant Davidson County court offices. This article is general information, not probate or title advice.
+
+## What if heirs disagree about selling?
+
+Before repairs or clearing out belongings, get clarity about ownership, decision-making authority, access, and how necessary expenses are handled. A lawyer can explain available legal options if there are disagreements. Real estate marketing cannot resolve a title or authority dispute.
+
+## Should you clean out or renovate the property first?
+
+Secure the home, confirm insurance coverage and basic maintenance, and preserve important records and personal property. Then compare the likely cost, timing, and net outcome of listing in present condition, completing targeted repairs, or considering a direct sale. Keep receipts and agree on who can authorize expenditures.
+
+## How to estimate the proceeds from an inherited sale
+
+Request a seller net sheet that includes possible sale-price ranges, mortgage and lien payoffs, property taxes, utilities, insurance, cleanout, repairs, brokerage compensation when applicable, and closing costs. Estate and tax consequences should be reviewed with an attorney and tax professional. Do not assume the gross sales price is what the heirs ultimately receive.
+
+## Get help planning a Davidson County sale
+
+If an inherited property is in Lexington, Thomasville, or rural Davidson County, [contact Toby to discuss the real estate side of the sale](/contact/), or call or text **336-203-8961**. We can discuss condition, marketing, and a potential timeline while an attorney handles ownership and authority questions. Please don't send sensitive estate documents through the general website form.
 
 ## Local resources and next steps
 
