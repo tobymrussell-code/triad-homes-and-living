@@ -54,3 +54,11 @@ Plan the appropriate property checks and schedule them around your actual contra
 ## 5. What money and deadlines are you agreeing to?
 
 Have your agent and attorney explain your signed terms, payment obligations, and termination provisions. Ask what could remain at risk if you don’t close. Use the current agreement rather than advice based on someone else’s past transaction.
+
+## Your first-week buying checklist
+
+Ask a lender for a payment estimate that includes property taxes, insurance, and any homeowners association dues. Then give your agent a short list of must-haves and regular destinations. For each shortlisted property, check financing eligibility, permits and additions, utility setup, and contract deadlines. A home in rural Davidson County may involve well, septic, or private-road questions that a city property does not. Keep your inspection and specialist questions written down before making an offer.
+
+## Related local resources and next steps
+
+For more background, read [due diligence fees nc](/guides/due-diligence-fees-nc/), [buyer agency agreements nc](/guides/buyer-agency-agreements-nc/), [north carolina buyer beware](/guides/north-carolina-buyer-beware/). You can also explore [Triad area guides](/areas/) or [ask Toby about your specific home or move](/contact/). For a quick conversation, call or text **336-203-8961**. Local pricing, taxes, legal requirements, and property condition should be confirmed against current records before making decisions.
