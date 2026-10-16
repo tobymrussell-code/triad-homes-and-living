@@ -50,3 +50,11 @@ Understand your estimated net proceeds, then compare that goal with the evidence
 ## What should you review after listing?
 
 Review actual showing feedback, relevant competition, and changes in your property’s position. Discuss what the evidence supports before adjusting price or preparation. A plan should have review points without promising a specific result.
+
+## Compare the right homes, not just nearby listings
+
+Choose recent closed sales and current competition that attract a similar buyer. Evaluate square footage, renovation quality, lot usefulness, property condition, and service availability. A home outside Lexington city limits may have different ownership costs from one downtown. Review showing feedback and the competitive landscape after listing rather than anchoring solely to the seller's target net proceeds.
+
+## Local resources and next steps
+
+Continue with [fix up house before selling](/guides/fix-up-house-before-selling/), [home appraisals thomasville nc](/guides/home-appraisals-thomasville-nc/), [selling house needs repairs nc](/guides/selling-house-needs-repairs-nc/). Explore the [Triad area guides](/areas/) or [contact Toby for property-specific guidance](/contact/). Call or text **336-203-8961**. Confirm current prices, regulations, and property details from reliable sources before acting.
