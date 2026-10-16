@@ -18,8 +18,8 @@
     "selling-house-needs-repairs-nc"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-10-12",
-  "editorialStatus": "starter-draft",
+  "dateModified": "2026-10-15",
+  "editorialStatus": "expanded-review-needed",
   "faq": [
     {
       "question": "Is a broad market average enough to price my house?",
@@ -54,6 +54,24 @@ Review actual showing feedback, relevant competition, and changes in your proper
 ## Compare the right homes, not just nearby listings
 
 Choose recent closed sales and current competition that attract a similar buyer. Evaluate square footage, renovation quality, lot usefulness, property condition, and service availability. A home outside Lexington city limits may have different ownership costs from one downtown. Review showing feedback and the competitive landscape after listing rather than anchoring solely to the seller's target net proceeds.
+
+## What goes into a comparative market analysis?
+
+A useful comparative market analysis (CMA) separates **closed sales**, **pending sales**, and **active listings**. Closed sales show what buyers actually paid; pending sales show activity but often not the final terms; active listings represent current competition, not proven values. Ask why each home is comparable: location, lot, heated living area, condition, renovations, and utility setup all matter.
+
+For Thomasville or Lexington, avoid relying on the ZIP code alone. Compare parcel location and municipal or county services. A renovated house, a dated house, and a home needing foundation work may attract different buyers even if their square footage is similar.
+
+## What can a seller control before listing?
+
+You can influence presentation, access for showings, documented repairs, and the initial asking price. You cannot control interest rates, competing inventory, appraisal conclusions, or the buyer's financing. Build a plan that includes photographs, accurate disclosures, key property records, and a date for reviewing feedback.
+
+## What does the seller actually keep?
+
+Ask for a **seller net sheet** that shows a realistic price range, estimated mortgage payoff, applicable brokerage compensation, negotiated concessions, prorations, taxes, repairs, and other closing expenses. Compare several scenarios instead of a single optimistic figure. The net sheet is an estimate, not a guarantee.
+
+## Get a property-specific pricing plan
+
+If you're thinking of selling in Thomasville, Lexington, High Point, or nearby Davidson County, [ask Toby for a home pricing review](/contact/). Share the address and any major improvements or condition concerns. I'll help you compare competing homes and discuss the likely preparation and pricing tradeoffs before you commit to a listing strategy.
 
 ## Local resources and next steps
 
