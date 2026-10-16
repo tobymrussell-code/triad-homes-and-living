@@ -48,3 +48,11 @@ Hidden conditions, scheduling, materials, and permit questions can change a proj
 ## When might selling in current condition make sense?
 
 Compare a current-condition listing or as-is offer when preparation costs and timing conflict with your priorities. Read the written terms and compare likely net proceeds. The right answer depends on your property and situation.
+
+## Choose repairs using net proceeds, not guesswork
+
+For a Thomasville or Lexington home, get written estimates for safety concerns, obvious damage, paint, flooring, and cleanup. Compare a sale in current condition against a sale after repairs, including carrying costs, delays, and unexpected findings. A renovation budget should not be treated as an equal increase in resale value. Ask for a property-specific pricing analysis before ordering larger work; some buyers will accept dated finishes, while others require lender-eligible condition.
+
+## Related local resources and next steps
+
+For more background, read [selling house needs repairs nc](/guides/selling-house-needs-repairs-nc/), [pricing triad home](/guides/pricing-triad-home/). You can also explore [Triad area guides](/areas/) or [ask Toby about your specific home or move](/contact/). For a quick conversation, call or text **336-203-8961**. Local pricing, taxes, legal requirements, and property condition should be confirmed against current records before making decisions.
