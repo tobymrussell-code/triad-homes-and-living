@@ -8,6 +8,6 @@ module.exports = {
   image: '/assets/toby-headshot.webp', imageWidth: 1280, imageHeight: 1280,
   formEndpoint: null, // Set an HTTPS POST handler before enabling direct submissions.
   dateModified: '2026-10-12', archiveMigrated: false,
-  markets: ['Thomasville', 'Lexington', 'Davidson County', 'High Point', 'Winston-Salem', 'Greensboro', 'Archdale', 'Trinity', 'Wallburg', 'Welcome', 'Midway', 'Denton', 'rural Davidson County', 'Randolph County', 'the Triad'],
+  markets: ['Davidson County', 'Forsyth County', 'Guilford County', 'Randolph County'],
   sameAs: ['https://www.zillow.com/profile/tobyrussell','https://www.linkedin.com/in/toby-russell-6baa0678/','https://www.youtube.com/@TobyRussell','https://www.instagram.com/tobyrussell336_realtor/','https://www.tiktok.com/@toby.russell.real']
 };
