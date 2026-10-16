@@ -50,3 +50,11 @@ Check boundaries, legal access, restrictions, and permitted use before planning 
 ## How do you weigh extra space against upkeep?
 
 Estimate the work and costs that come with the lot, systems, and structures. Walk the property and ask for written estimates when needed. Decide whether the extra responsibilities match how you want to spend your time.
+
+## Property checks beyond the mailing address
+
+For homes with acreage or outbuildings, confirm recorded access, surveys, easements, property boundaries, permitted uses, and utility systems. Ask the relevant county offices whether structures and septic records exist and consult appropriate professionals where needed. Wallburg and Welcome may offer different combinations of neighborhood settings and rural properties; compare the exact homes and daily routes, not assumptions about either place.
+
+## Related local resources and next steps
+
+For more background, read [triad commute map](/guides/triad-commute-map/), [selling well septic davidson county](/guides/selling-well-septic-davidson-county/), [moving to lexington nc](/guides/moving-to-lexington-nc/). You can also explore [Triad area guides](/areas/) or [ask Toby about your specific home or move](/contact/). For a quick conversation, call or text **336-203-8961**. Local pricing, taxes, legal requirements, and property condition should be confirmed against current records before making decisions.
