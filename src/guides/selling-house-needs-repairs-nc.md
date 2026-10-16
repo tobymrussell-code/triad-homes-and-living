@@ -48,3 +48,11 @@ Compare written terms and estimated net proceeds after costs, repairs, and timin
 ## What should you do first?
 
 Gather repair history, known concerns, and available estimates. Then discuss two or three practical sale scenarios before spending. Avoid a renovation project driven only by guessing what an unknown buyer will want.
+
+## Compare repair and as-is outcomes
+
+Estimate likely sale proceeds after preparation, then subtract repairs, carrying costs, concessions, and selling expenses. Compare that with an as-is path based on its actual net terms and contingencies. A faster sale may offer convenience but a different net return. Toby's investment business is distinct from his listing services, and any role in a transaction should be clarified upfront.
+
+## Local resources and next steps
+
+Continue with [fix up house before selling](/guides/fix-up-house-before-selling/), [cleaning out house before selling](/guides/cleaning-out-house-before-selling/). Explore the [Triad area guides](/areas/) or [contact Toby for property-specific guidance](/contact/). Call or text **336-203-8961**. Confirm current prices, regulations, and property details from reliable sources before acting.
