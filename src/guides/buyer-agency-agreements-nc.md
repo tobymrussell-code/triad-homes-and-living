@@ -52,3 +52,11 @@ Read the term, termination, and any protection provisions before signing. Ask ho
 ## Where can you read more about agency?
 
 Review the [NCREC agency disclosure update](https://bulletins.ncrec.gov/working-with-real-estate-agents-disclosure-update/) and the Commission’s [consumer publications](https://www.ncrec.gov/Publications/Publications). Use the current documents your broker provides for your transaction.
+
+## Practical questions for a Triad buyer
+
+Before touring homes in Thomasville, Lexington, or High Point, ask which geographic area and property types an agreement covers, when it starts and ends, and what services are included. Request a copy before signing. Discuss compensation, any potential difference between the agreed compensation and what a seller offers, and what happens if you decide to work with someone else. Confirm the current North Carolina forms and requirements with your agent; legal interpretation belongs with an attorney.
+
+## Related local resources and next steps
+
+For more background, read [buying home north carolina](/guides/buying-home-north-carolina/), [due diligence fees nc](/guides/due-diligence-fees-nc/). You can also explore [Triad area guides](/areas/) or [ask Toby about your specific home or move](/contact/). For a quick conversation, call or text **336-203-8961**. Local pricing, taxes, legal requirements, and property condition should be confirmed against current records before making decisions.
