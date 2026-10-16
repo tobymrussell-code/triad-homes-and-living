@@ -89,3 +89,11 @@ If one address offers more space but adds upkeep and an inconvenient route, deci
 Build a short list of addresses and record the questions that could change your decision. Bring the map, your financing plan, and your property priorities into the conversation before you spend a weekend touring.
 
 If you’re moving to Lexington or anywhere in Davidson County, reach out and I’ll help you understand the map before you start picking houses.
+
+## Build a Lexington short list around actual addresses
+
+Choose two or three homes in different settings—near downtown, in a subdivision, and outside city limits if those options interest you. Drive the routes to work, grocery shopping, and regular appointments. Verify county and municipal tax jurisdictions at the parcel level, then check water, sewer, well, septic, internet, HOA, and restrictions individually. Compare the full cost of ownership and maintenance rather than treating every Lexington mailing address as equivalent.
+
+## Related local resources and next steps
+
+For more background, read [thomasville vs lexington nc](/guides/thomasville-vs-lexington-nc/), [triad commute map](/guides/triad-commute-map/), [new construction near lexington nc](/guides/new-construction-near-lexington-nc/). You can also explore [Triad area guides](/areas/) or [ask Toby about your specific home or move](/contact/). For a quick conversation, call or text **336-203-8961**. Local pricing, taxes, legal requirements, and property condition should be confirmed against current records before making decisions.
