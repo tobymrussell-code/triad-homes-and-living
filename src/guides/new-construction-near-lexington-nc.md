@@ -49,3 +49,11 @@ Discuss independent inspections and access at appropriate stages before signing.
 ## What should you ask about timing and warranties?
 
 Ask how the agreement handles delays, completion standards, walkthroughs, warranty coverage, and service requests. Have an attorney review legal questions. Keep important representations in the written agreement.
+
+## What to request from a builder before signing
+
+Ask for a written specification sheet, allowance schedule, site plan, anticipated completion provisions, warranty coverage, and rules for change orders. Confirm whether landscaping, appliances, utility connections, and driveway work are included. If the builder offers a rate incentive, compare total loan costs and lender terms instead of looking only at the advertised rate. Discuss independent inspections at appropriate construction milestones with your agent and inspector.
+
+## Related local resources and next steps
+
+For more background, read [moving to lexington nc](/guides/moving-to-lexington-nc/), [buying home north carolina](/guides/buying-home-north-carolina/), [buyer agency agreements nc](/guides/buyer-agency-agreements-nc/). You can also explore [Triad area guides](/areas/) or [ask Toby about your specific home or move](/contact/). For a quick conversation, call or text **336-203-8961**. Local pricing, taxes, legal requirements, and property condition should be confirmed against current records before making decisions.
