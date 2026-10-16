@@ -63,3 +63,11 @@ Build a property-specific estimate of payment, verified taxes, insurance, utilit
 ## 7. Do you understand the offer?
 
 Review representation, contract money, deadlines, and inspection responsibilities before signing. Ask your agent and North Carolina attorney about terms you don’t understand. Don’t learn the important clause after you need it.
+
+## Questions worth asking on a Thomasville home tour
+
+Does the driveway work for your household's vehicles? Are there stormwater, grading, or drainage concerns? Which government supplies services at the actual parcel? Are planned improvements permitted and practical? Compare Thomasville addresses with Lexington and High Point options using the same commute and upkeep checklist. An appealing house can still be a poor fit when its access, lot responsibilities, or utility setup do not suit your routine.
+
+## Related local resources and next steps
+
+For more background, read [thomasville vs lexington nc](/guides/thomasville-vs-lexington-nc/), [triad commute map](/guides/triad-commute-map/), [buying home north carolina](/guides/buying-home-north-carolina/). You can also explore [Triad area guides](/areas/) or [ask Toby about your specific home or move](/contact/). For a quick conversation, call or text **336-203-8961**. Local pricing, taxes, legal requirements, and property condition should be confirmed against current records before making decisions.
