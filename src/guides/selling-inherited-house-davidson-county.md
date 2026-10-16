@@ -49,3 +49,11 @@ Agree on authority and important belongings before starting the cleanout. Get wr
 ## How do you build a realistic timeline?
 
 Base the timeline on legal readiness, property work, market preparation, and closing requirements. Ask which steps can happen together and which depend on an earlier decision. Don’t promise a date before the dependencies are clear.
+
+## Gather these records before setting a timeline
+
+Locate the deed, estate documents, mortgage balance, tax information, insurance, keys, surveys, and maintenance records. Ask a North Carolina attorney to verify who can sign and what approvals are required. Then budget cleanout and repairs and compare sale options. Estate and family decisions may affect timing more than typical marketing preparation.
+
+## Local resources and next steps
+
+Continue with [cleaning out house before selling](/guides/cleaning-out-house-before-selling/), [selling house needs repairs nc](/guides/selling-house-needs-repairs-nc/), [pricing triad home](/guides/pricing-triad-home/). Explore the [Triad area guides](/areas/) or [contact Toby for property-specific guidance](/contact/). Call or text **336-203-8961**. Confirm current prices, regulations, and property details from reliable sources before acting.
