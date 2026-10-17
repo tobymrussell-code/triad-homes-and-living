@@ -17,11 +17,11 @@
  const track=(event,params={})=>{if(getChoice()==='accepted')window.dataLayer.push({event,...params});};
  const banner=document.createElement('section');
  banner.className='privacy-banner';banner.hidden=true;banner.setAttribute('role','region');banner.setAttribute('aria-labelledby','privacy-banner-title');
- banner.innerHTML='<div class="privacy-banner__copy"><h2 id="privacy-banner-title">Your privacy choices</h2><p>Allow optional analytics to help Toby understand which pages and site actions are useful. Analytics does not receive your form contents or direct contact details. You can change this choice later in Privacy settings.</p></div><div class="privacy-banner__actions"><button type="button" data-consent-reject>Reject optional analytics</button><button type="button" data-consent-accept>Accept analytics</button></div>';
+ banner.innerHTML='<div class="privacy-banner__copy"><h2 id="privacy-banner-title">Your privacy choices</h2><p>Allow optional analytics to help Toby understand which pages and site actions are useful. Analytics does not receive your form contents or direct contact details. Rejecting optional analytics turns measurement off; if you change this choice after accepting, the page refreshes to apply it. You can change your choice later in Privacy settings.</p></div><div class="privacy-banner__actions"><button type="button" data-consent-reject>Reject optional analytics</button><button type="button" data-consent-accept>Accept analytics</button></div>';
  const settings=document.createElement('button');settings.type='button';settings.className='privacy-settings-button';settings.textContent='Privacy settings';settings.setAttribute('aria-label','Change optional analytics settings');
  document.body.append(banner,settings);
  const updateConsentUI=()=>{const open=!getChoice();banner.hidden=!open;settings.hidden=open;};
- const choose=value=>{setChoice(value);updateConsentUI();if(value==='accepted'){loadGtm();if(document.querySelector('.guide-body'))track('view_article',{content_type:'guide',page_path:location.pathname});}};
+ const choose=value=>{const wasLoaded=gtmLoaded;setChoice(value);updateConsentUI();if(value==='accepted'){loadGtm();if(document.querySelector('.guide-body'))track('view_article',{content_type:'guide',page_path:location.pathname});}else if(wasLoaded){location.reload();}else settings.focus();}
  banner.querySelector('[data-consent-accept]').addEventListener('click',()=>choose('accepted'));
  banner.querySelector('[data-consent-reject]').addEventListener('click',()=>choose('rejected'));
  settings.addEventListener('click',()=>{banner.hidden=false;settings.hidden=true;banner.querySelector('[data-consent-accept]').focus();});
