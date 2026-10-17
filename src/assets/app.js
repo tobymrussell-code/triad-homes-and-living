@@ -31,8 +31,8 @@
  document.addEventListener('click',event=>{
   const link=event.target.closest('a[href]');if(!link)return;
   const href=link.getAttribute('href')||'',label=(link.textContent||'').trim().toLowerCase();
-  if(href.startsWith('tel:'))track('contact_click',{contact_method:'phone',page_path:location.pathname});
-  else if(href.startsWith('sms:'))track('contact_click',{contact_method:'text',page_path:location.pathname});
+  if(href.startsWith('tel:'))track('phone_click',{page_path:location.pathname});
+  else if(href.startsWith('sms:'))track('text_click',{page_path:location.pathname});
   else if(label.includes('valuation'))track('valuation_click',{page_path:location.pathname});
   else if(label.includes('market report'))track('market_report_click',{page_path:location.pathname});
   else if(label.includes('search')&&(/\/search\//.test(href)||link.classList.contains('button')))track('property_search_click',{page_path:location.pathname});
