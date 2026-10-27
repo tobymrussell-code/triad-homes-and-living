@@ -39,6 +39,7 @@
  },true);
 
  const handleHubSpotMessage=data=>{
+  if(document.querySelector('[data-relocation-city]'))return;
   if(!data||data.type!=='hsFormCallback'||data.eventName!=='onFormSubmitted')return;
   const formId=data.id||data.formId;if(formId!==HUBSPOT_FORM_ID)return;
   track('generate_lead',{form_id:HUBSPOT_FORM_ID,form_location:location.pathname});
