@@ -1,13 +1,13 @@
 module.exports = {
   name: 'Toby Russell', title: 'REALTOR®', license: '305135', licensedSince: '2016',
-  phone: '336-203-8961', email: null,
-  // Replace with your confirmed own-domain address. Null renders an honest placeholder.
+  phone: '336-203-8961', email: 'tobymrussell@gmail.com',
   origin: (process.env.SITE_ORIGIN || 'https://tobymrussell-code.github.io/triad-homes-and-living').replace(/^http:/, 'https:').replace(/\/$/, ''),
   // The deployment workflow supplies the active hosting origin.
   // Purchased custom domain: triadhomesliving.com. Keep the Pages URL until DNS is connected.
   image: '/assets/toby-headshot.webp', imageWidth: 1280, imageHeight: 1280,
+  shareImage: '/assets/triad-homes-social.webp', shareImageWidth: 1200, shareImageHeight: 630,
   formEndpoint: null, // Set an HTTPS POST handler before enabling direct submissions.
-  dateModified: '2026-10-12', archiveMigrated: false,
+  dateModified: '2026-10-30', archiveMigrated: false,
   markets: ['Davidson County', 'Forsyth County', 'Guilford County', 'Randolph County'],
   sameAs: ['https://www.zillow.com/profile/tobyrussell','https://www.linkedin.com/in/toby-russell-6baa0678/','https://www.youtube.com/@TobyRussell','https://www.instagram.com/tobyrussell336_realtor/','https://www.tiktok.com/@toby.russell.real']
 };

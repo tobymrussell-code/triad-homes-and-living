@@ -31,7 +31,7 @@ This report records the original October 12 build. Its performance and Rich Resu
 5. Connect the custom domain before changing the canonical origin, rebuild, republish, and verify on that origin. Public crawler access requires a public audience; the initial Sites deployment is private.
 6. Measure hosted performance and real visitor Core Web Vitals after launch. Field INP cannot be certified before there are real interactions and monitoring.
 
-The office address was supplied directly by Toby: 500 W 5th Street, Winston Salem, NC 27101. This supersedes any other office location found on the brokerage directory.
+The former brokerage office address was removed during the current firm transition. No new brokerage office address is displayed until Toby confirms the correct public office address.
 
 ## October 13 update
 

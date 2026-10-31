@@ -1,7 +1,8 @@
 # Original assets
 
 - Agent photo: `the supplied Toby Russell headshot`; retained unchanged in `the private migration backup/assets/originals/toby-headshot.jpeg`. WebP conversion uses the full image with no crop or retouch.
-- Brokerage logo: the exact original asset in the logo link on the user-supplied homepage: https://dtzulyujzhqiu.cloudfront.net//profiles/1646413812.png . Original is retained in `the private migration backup/assets/originals/brokerage-logo.png`; displayed WebP is lossless and has the original dimensions.
+- Brokerage logo: the current brokerage mark supplied directly by Toby Russell on October 30, 2026. The transparent source was converted to `/assets/homesmart-mark.webp` without redrawing the mark. The prior brokerage asset remains only in the private migration backup and is not displayed.
+- Social-share image: `/assets/triad-homes-social.webp` is a 1200×630 site card created from the site’s established navy, gold, and white palette with the supplied brokerage mark.
 - Equal Housing Opportunity graphic: https://www.hud.gov/sites/dfiles/FHEO/images/fheo100.gif . HUD source page: https://www.hud.gov/contactus/hudgraphics . Original is retained in `the private migration backup/assets/originals/equal-housing.gif`; displayed WebP is lossless.
 
 The favicon is a simple typographic T, not a recreated brokerage or REALTOR® logo. No stock or generated portrait is used.

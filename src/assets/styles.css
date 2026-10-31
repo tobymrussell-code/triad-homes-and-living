@@ -29,3 +29,11 @@
 .privacy-settings-button{position:fixed;z-index:999;left:1rem;bottom:1rem;box-shadow:0 4px 18px rgba(0,0,0,.18)}
 @media(max-width:700px){.privacy-banner{flex-direction:column;padding:1rem;gap:.85rem}.privacy-banner__actions{width:100%}.privacy-banner__actions button{flex:1 1 12rem}}
 @media(prefers-reduced-motion:reduce){.privacy-banner,.privacy-settings-button{scroll-behavior:auto}}
+
+/* Brokerage identity */
+.brokerage-logo{width:48px;height:48px;object-fit:contain;background:transparent;padding:0;border-radius:0}
+.footer-brokerage .brokerage-logo{width:58px;height:58px}
+.local-resources{margin-top:52px;padding:30px;background:var(--wash);border-top:2px solid var(--gold)}
+.local-resources h2{margin-top:0}
+.local-resources ul{columns:2;gap:30px}
+@media(max-width:760px){.brokerage-logo{width:36px;height:36px}.footer-brokerage .brokerage-logo{width:48px;height:48px}.local-resources{padding:24px}.local-resources ul{columns:1}}
