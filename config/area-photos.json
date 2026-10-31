@@ -8,12 +8,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Thomasville,_North_Carolina_02.jpg"
   },
   "lexington-nc": {
-    "src": "/assets/area-lexington.webp",
-    "alt": "South Main Street in Lexington",
-    "author": "Kenneth C. Zirkel",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "source": "https://commons.wikimedia.org/wiki/File:Lexington,_North_Carolina_Main_Street.jpg"
+    "src": "/assets/area-lexington-toby.webp",
+    "alt": "Aerial view of downtown Lexington, North Carolina, and the historic Davidson County Courthouse",
+    "author": "Toby Russell",
+    "credit": "Photo © Toby Russell",
+    "width": 1200,
+    "height": 675
   },
   "davidson-county-nc": {
     "src": "/assets/area-davidson-county.webp",
