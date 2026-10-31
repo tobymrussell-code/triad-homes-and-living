@@ -11,7 +11,7 @@
     "src": "/assets/area-lexington-toby.webp",
     "alt": "Aerial view of downtown Lexington, North Carolina, and the historic Davidson County Courthouse",
     "author": "Toby Russell",
-    "credit": "Photo © Toby Russell",
+    "credit": "Photo \u00a9 Toby Russell",
     "width": 1200,
     "height": 675
   },
@@ -32,12 +32,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:HighPoint,NC.jpg"
   },
   "winston-salem-nc": {
-    "src": "/assets/area-winston-salem.webp",
-    "alt": "Winston-Salem skyline",
-    "author": "Indy beetle",
-    "license": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "source": "https://commons.wikimedia.org/wiki/File:Winston-Salem_skyline.jpg"
+    "src": "/assets/area-winston-salem-toby.webp",
+    "alt": "Downtown Winston-Salem, North Carolina, skyline",
+    "author": "Toby Russell",
+    "credit": "Photo \u00a9 Toby Russell",
+    "width": 1200,
+    "height": 750
   },
   "archdale-nc": {
     "src": "/assets/area-archdale.webp",
