@@ -37,3 +37,26 @@
 .local-resources h2{margin-top:0}
 .local-resources ul{columns:2;gap:30px}
 @media(max-width:760px){.brokerage-logo{width:36px;height:36px}.footer-brokerage .brokerage-logo{width:48px;height:48px}.local-resources{padding:24px}.local-resources ul{columns:1}}
+
+/* Site cleanup, Nov 2026: compact consent bar, footer theme toggle, search in nav, guide photos */
+.privacy-banner{max-width:44rem;padding:.7rem 1rem;gap:.9rem;align-items:center;border-radius:.75rem}
+.privacy-banner__copy p{font-size:.85rem;line-height:1.45}
+.privacy-banner__copy a{text-decoration:underline}
+.privacy-banner__actions button{min-height:40px;padding:.45rem .9rem}
+.privacy-settings-link,.site-footer .theme-button{background:none;border:0;border-radius:0;width:auto;height:auto;padding:0;color:inherit;font:inherit;font-size:.7rem;text-decoration:underline;text-underline-offset:4px;cursor:pointer}
+.privacy-settings-link:hover,.site-footer .theme-button:hover{color:var(--gold)}
+.main-nav .nav-search{border:1px solid #62718b;border-radius:var(--radius);padding:6px 12px}
+.main-nav .nav-search:hover{border-color:var(--gold)}
+.main-nav .nav-contact{margin-left:0}
+.main-nav .nav-search{margin-left:auto}
+.guide-hero{padding-top:30px}
+.guide-hero .area-photo img{height:320px}
+@media(max-width:760px){
+ .privacy-banner{flex-direction:row;flex-wrap:wrap;padding:.65rem .8rem;gap:.5rem;left:.5rem;right:.5rem;bottom:.5rem}
+ .privacy-banner__actions{width:100%}
+ .privacy-banner__actions button{flex:1 1 0}
+ .main-nav{gap:16px 20px}
+ .main-nav .nav-search{margin-left:0}
+ .guide-hero .area-photo img{height:200px}
+}
+.guide-hero .area-photo{max-width:760px}
