@@ -10,7 +10,7 @@ module.exports = {
   brokerageOfficeAddress: null,
   brokeragePostalAddress: null,
   brokerageDisclosure: `Toby Russell is a licensed real estate broker in North Carolina affiliated with ${brokerageName}.`,
-  homeSearchUrl: null,
+  homeSearchUrl: 'https://tobyrussell.northgroupre.com/index.php?rtype=map',
   homeValuationUrl: null,
   marketReportUrl: null
 };
