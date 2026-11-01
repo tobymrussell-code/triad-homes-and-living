@@ -18,8 +18,8 @@
     "selling-house-needs-repairs-nc"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-10-15",
-  "editorialStatus": "expanded-review-needed",
+  "dateModified": "2026-11-01",
+  "editorialStatus": "reviewed",
   "faq": [
     {
       "question": "Is a broad market average enough to price my house?",
@@ -28,6 +28,18 @@
     {
       "question": "Can you guarantee a sale price from a website estimate?",
       "answer": "No. Treat estimates as starting points and build a property-specific pricing conversation using current evidence."
+    },
+    {
+      "question": "Should I price my home just under a round number?",
+      "answer": "Often, yes. Buyers search in price brackets, so a price just under a common cutoff can keep your home in more searches."
+    },
+    {
+      "question": "Is it better to start high and reduce later?",
+      "answer": "Usually not. Overpricing tends to cause fewer showings and more days on market, which can lead to a lower final price."
+    },
+    {
+      "question": "How do I know if my home is priced right?",
+      "answer": "Watch showings and feedback in the first two weeks. Slow activity is a signal to revisit price, condition, or presentation."
     }
   ]
 }
@@ -72,6 +84,22 @@ Ask for a **seller net sheet** that shows a realistic price range, estimated mor
 ## Get a property-specific pricing plan
 
 If you're thinking of selling in Thomasville, Lexington, High Point, or nearby Davidson County, [ask Toby for a home pricing review](/contact/). Share the address and any major improvements or condition concerns. I'll help you compare competing homes and discuss the likely preparation and pricing tradeoffs before you commit to a listing strategy.
+
+## Why do price brackets matter so much?
+
+Buyers search online inside price ranges, often in round numbers. A house listed just above a common cutoff can disappear from searches capped at that number. Before you pick a price, look at the brackets your likely buyer is searching and where your home falls inside them.
+
+## Why do the first two weeks matter?
+
+A new listing gets the most attention in its first couple of weeks. If showings are slow or nobody's making offers in that window, the market is telling you something about price, condition, or presentation. Waiting it out usually costs more than adjusting early.
+
+## Should you price high to leave room to negotiate?
+
+Usually not. Overpricing tends to bring fewer showings, more days on market, and price cuts that make buyers wonder what's wrong. A home that sits often ends up selling for less than a well-priced listing would have. That's the hidden cost of starting too high.
+
+## Why do some Triad homes sell fast while others sit?
+
+Homes that move tend to be priced for their condition, look good online, and are easy to show. Homes that sit are usually priced against the seller's hopes instead of today's competition, or have condition issues buyers didn't expect. Your real competition is the handful of homes a buyer will compare yours against this week, not every sale in the county.
 
 ## Local resources and next steps
 

@@ -3,7 +3,7 @@
   "layout": "guide.njk",
   "permalink": "/guides/selling-house-needs-repairs-nc/",
   "slug": "selling-house-needs-repairs-nc",
-  "title": "Selling a House Needing Repairs in NC | Toby Russell",
+  "title": "Selling a House That Needs Repairs or As-Is in NC | Toby Russell",
   "description": "Selling a North Carolina house that needs repairs? Compare listing as is, targeted work, and an offer path using costs, timing, and your likely net proceeds.",
   "primaryKeyword": "selling a house that needs repairs in nc",
   "category": "Selling",
@@ -16,8 +16,8 @@
     "cleaning-out-house-before-selling"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-10-15",
-  "editorialStatus": "expanded-review-needed",
+  "dateModified": "2026-11-01",
+  "editorialStatus": "reviewed",
   "faq": [
     {
       "question": "Can I sell without doing a full renovation?",
@@ -26,6 +26,14 @@
     {
       "question": "Does an as-is sale remove every obligation?",
       "answer": "Ask your attorney and agent about the disclosure and contract obligations for your property. Do not assume the phrase removes them."
+    },
+    {
+      "question": "Do I have to fill out disclosures if I sell as-is in NC?",
+      "answer": "Usually, yes. Most sellers still provide the state disclosure form. You can answer No Representation on items, but you cannot misrepresent problems you know about."
+    },
+    {
+      "question": "Is it better to list as-is or take a cash offer?",
+      "answer": "Listing as-is usually reaches more buyers and may bring a higher price. A cash offer is often faster and simpler. Compare your net proceeds and timeline for both."
     }
   ]
 }
@@ -74,6 +82,18 @@ For each option, estimate **sale price minus repair expense, selling and closing
 Toby Russell is a licensed North Carolina real estate agent and is also associated with America Home Buyers, a separate house-buying business. A direct purchase offer is different from hiring an agent to list your property. Clarify the role, relationship, and any potential conflicts before entering an agreement, and consider independent representation or legal advice where appropriate.
 
 If you have a property in Thomasville, Lexington, or Davidson County that needs work, [request a comparison of your options](/contact/) or call **336-203-8961**. You don't have to start repairs before asking for a realistic assessment.
+
+## What does selling a house as-is mean in North Carolina?
+
+Selling as-is means you won't make repairs or offer repair credits. The buyer takes the house in its current condition. It doesn't mean you can hide problems. You still give buyers the state disclosure form unless your sale is exempt, and while you can answer "No Representation" on items, you can't misrepresent things you know. Your agent also has to disclose material facts they know about the property.
+
+Buyers can still inspect an as-is house during due diligence. Expect them to price their offer around what they find.
+
+## Is listing as-is different from taking a cash offer?
+
+Yes. Listing as-is on the open market exposes the house to every buyer, including people who want a project. That often brings the strongest price, but you still deal with showings, inspections, and financing that may not work for a house in rough shape.
+
+A direct cash offer is usually faster and simpler, with fewer showings and fewer financing surprises, but it typically trades some price for that speed. Neither is automatically right. Compare your net on each before you decide.
 
 ## Local resources and next steps
 

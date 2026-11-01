@@ -16,8 +16,8 @@
     "pricing-triad-home"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-10-12",
-  "editorialStatus": "starter-draft",
+  "dateModified": "2026-11-01",
+  "editorialStatus": "reviewed",
   "faq": [
     {
       "question": "Does every upgrade pay for itself?",
@@ -26,6 +26,14 @@
     {
       "question": "Should I start work before discussing pricing?",
       "answer": "Get a property-specific selling plan first so the repairs and pricing decisions support each other."
+    },
+    {
+      "question": "Should I renovate my kitchen before selling?",
+      "answer": "Usually not a full remodel. A refresh with paint, hardware, lighting, and repairs often gives a better return. Compare against homes you'll compete with first."
+    },
+    {
+      "question": "What repairs matter most before selling in Davidson County?",
+      "answer": "Items that can affect inspection, financing, or insurance, such as roof leaks, moisture, safety hazards, and non-working systems."
     }
   ]
 }
@@ -52,6 +60,24 @@ Compare a current-condition listing or as-is offer when preparation costs and ti
 ## Choose repairs using net proceeds, not guesswork
 
 For a Thomasville or Lexington home, get written estimates for safety concerns, obvious damage, paint, flooring, and cleanup. Compare a sale in current condition against a sale after repairs, including carrying costs, delays, and unexpected findings. A renovation budget should not be treated as an equal increase in resale value. Ask for a property-specific pricing analysis before ordering larger work; some buyers will accept dated finishes, while others require lender-eligible condition.
+
+## Which repairs usually matter most?
+
+Start with anything that could affect a buyer's inspection, financing, or insurance: roof leaks, active moisture, safety hazards, non-working systems, and obvious deferred maintenance. Those items scare buyers more than an outdated finish.
+
+## Which updates give the best first impression?
+
+When the budget is limited, smaller visible updates often do more than a big remodel:
+
+- **Fresh neutral paint** in main rooms
+- **Curb appeal:** trimmed shrubs, fresh mulch, a clean entry, a painted front door, working exterior lights
+- **A kitchen refresh** instead of a remodel, like new hardware, lighting, or a faucet, and repaired cabinets
+- **A bathroom refresh,** like new caulk, updated fixtures, and good lighting
+- **Usable outdoor space,** like a clean deck or patio set up so buyers can picture using it
+
+## What would I skip without a walkthrough first?
+
+Big renovations, like a full kitchen remodel, before we've looked at your competition and price range. If comparable homes are selling in original condition, a remodel may not come back to you at closing.
 
 ## Related local resources and next steps
 

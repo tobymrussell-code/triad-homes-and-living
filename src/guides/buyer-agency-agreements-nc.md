@@ -3,7 +3,7 @@
   "layout": "guide.njk",
   "permalink": "/guides/buyer-agency-agreements-nc/",
   "slug": "buyer-agency-agreements-nc",
-  "title": "Buyer Agency Agreements in NC | Toby Russell",
+  "title": "Buyer Agency Agreements in NC: How Agents Get Paid | Toby Russell",
   "description": "Review North Carolina buyer agency agreements before your Triad NC home search. Ask about representation, services, compensation, term, and ending an agreement.",
   "primaryKeyword": "buyer agency agreements in nc",
   "category": "Buying",
@@ -16,8 +16,8 @@
     "due-diligence-fees-nc"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-10-12",
-  "editorialStatus": "starter-draft",
+  "dateModified": "2026-11-01",
+  "editorialStatus": "reviewed",
   "faq": [
     {
       "question": "Should I read the compensation section?",
@@ -26,6 +26,18 @@
     {
       "question": "Is the disclosure itself my service agreement?",
       "answer": "Ask your broker to explain the difference between disclosure of agency relationships and the agreement setting representation terms."
+    },
+    {
+      "question": "How do buyer's agents get paid in North Carolina?",
+      "answer": "Your written buyer agreement states the amount or rate your agent will receive. A seller may cover some or all of it, or you can ask for that in your offer. If not, the agreement explains what you owe."
+    },
+    {
+      "question": "Do I have to sign a buyer agreement before touring a home in NC?",
+      "answer": "Yes. Since August 17, 2024, MLS agents must have a written agreement with a buyer before touring a home, including virtual tours."
+    },
+    {
+      "question": "Are real estate commissions negotiable in North Carolina?",
+      "answer": "Yes. Commissions are not set by law, and buyer agreements must say they are negotiable."
     }
   ]
 }
@@ -56,6 +68,20 @@ Review the [NCREC agency disclosure update](https://bulletins.ncrec.gov/working-
 ## Practical questions for a Triad buyer
 
 Before touring homes in Thomasville, Lexington, or High Point, ask which geographic area and property types an agreement covers, when it starts and ends, and what services are included. Request a copy before signing. Discuss compensation, any potential difference between the agreed compensation and what a seller offers, and what happens if you decide to work with someone else. Confirm the current North Carolina forms and requirements with your agent; legal interpretation belongs with an attorney.
+
+## How do buyer's agents get paid in North Carolina?
+
+Since August 17, 2024, agents working through the MLS have to have a written agreement with a buyer before touring any home, in person or virtually. That agreement has to spell out how your agent gets paid. A few rules apply:
+
+- **The amount has to be specific.** It must be a set amount, a set rate, or a clear way to calculate it. "Whatever the seller offers" isn't allowed.
+- **Your agent can't be paid more than you agreed to,** from any source.
+- **Commissions are negotiable.** They aren't set by law, and the agreement has to say so.
+
+In real life, a seller may still offer to cover some or all of your agent's compensation, or you can ask for that in your offer. If the seller doesn't, the agreement explains what you would owe. Ask your agent to walk through that section before you sign. It's the part people most often skim.
+
+## Do I have to sign before seeing a house?
+
+Yes, if an agent is showing you the home. Some agents use a shorter agreement limited to touring, while others use a full buyer agency agreement. Ask which one you're signing, how long it lasts, and how either side can end it. If you're relocating and touring virtually, the same rule applies to video tours.
 
 ## Related local resources and next steps
 

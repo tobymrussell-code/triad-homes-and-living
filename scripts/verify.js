@@ -7,6 +7,7 @@ const titles=new Set(),descs=new Set(),keywords=new Set();let checkedLinks=0,faq
 function decode(s){return s.replaceAll('&amp;','&').replaceAll('&#39;',"'").replaceAll('&quot;','"').replaceAll('&lt;','<').replaceAll('&gt;','>');}
 for(const p of pages){
  const file='dist'+(p.url==='/'?'/index.html':p.url+'index.html'),html=fs.readFileSync(file,'utf8');
+ if(p.redirect||/http-equiv="refresh"/.test(html))continue;
  const title=decode(html.match(/<title>(.*?)<\/title>/s)[1]);const desc=decode(html.match(/<meta name="description" content="(.*?)">/s)[1]);
  assert.equal(title,p.title,`Title mismatch: ${p.url}`);assert(title.length<=75,`Long title: ${p.url}`);assert(!titles.has(title),`Duplicate title ${title}`);titles.add(title);
  assert.equal(desc,p.description,`Description mismatch: ${p.url}`);assert(desc.length>=110&&desc.length<=170,`Description ${desc.length}: ${p.url}`);assert(!descs.has(desc),`Duplicate description ${p.url}`);descs.add(desc);
