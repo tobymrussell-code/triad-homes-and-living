@@ -1,6 +1,80 @@
 [
-  {"name":"barbecue-plate","src":"/assets/lexington-guide-photos/barbecue-plate.webp","author":"Jeffery Loo","date":"2007-05-25","license":"CC BY-SA 2.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.0/","source":"https://commons.wikimedia.org/wiki/File:North_Carolina_barbecue_hushpuppies_baked_beans_red_cole_slaw.jpg","changes":"WebP conversion; responsive copies resized. The Commons original has an existing brightness adjustment by Off-shell."},
-  {"name":"festival","src":"/assets/lexington-guide-photos/festival.webp","author":"Dennis Brown","date":"2008-10-25","license":"CC BY 3.0","licenseUrl":"https://creativecommons.org/licenses/by/3.0/","source":"https://commons.wikimedia.org/wiki/File:Lexington_Barbecue_Festival_-_Crowd_1.jpg","changes":"Resized and converted to WebP. Archival date displayed in caption."},
-  {"name":"reynolda","src":"/assets/lexington-guide-photos/reynolda.webp","author":"P. Hughes","date":"2025-10-10","license":"CC BY 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0/","source":"https://commons.wikimedia.org/wiki/File:Winston-Salem_-_Reynolda_Gardens_02.jpg","changes":"Resized and converted to WebP."},
-  {"name":"high-rock","src":"/assets/lexington-guide-photos/high-rock.webp","author":"Dennis Brown","date":"2008-10-18","license":"Public domain","source":"https://commons.wikimedia.org/wiki/File:Abbottscreek-northend.png","changes":"Resized and converted to WebP. Archival date displayed in caption; not a representation of current water conditions."}
+  {
+    "name": "barbecue-plate",
+    "src": "/assets/lexington-guide-photos/barbecue-plate.webp",
+    "author": "Jeffery Loo",
+    "date": "2007-05-25",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:North_Carolina_barbecue_hushpuppies_baked_beans_red_cole_slaw.jpg",
+    "changes": "WebP conversion; responsive copies resized. The Commons original has an existing brightness adjustment by Off-shell."
+  },
+  {
+    "name": "festival",
+    "src": "/assets/lexington-guide-photos/festival.webp",
+    "author": "Dennis Brown",
+    "date": "2008-10-25",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Lexington_Barbecue_Festival_-_Crowd_1.jpg",
+    "changes": "Resized and converted to WebP. Archival date displayed in caption."
+  },
+  {
+    "name": "reynolda",
+    "src": "/assets/lexington-guide-photos/reynolda.webp",
+    "author": "P. Hughes",
+    "date": "2025-10-10",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Winston-Salem_-_Reynolda_Gardens_02.jpg",
+    "changes": "Resized and converted to WebP."
+  },
+  {
+    "name": "high-rock",
+    "src": "/assets/lexington-guide-photos/high-rock.webp",
+    "author": "Dennis Brown",
+    "date": "2008-10-18",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Abbottscreek-northend.png",
+    "changes": "Resized and converted to WebP. Archival date displayed in caption; not a representation of current water conditions."
+  },
+  {
+    "name": "uptown-main",
+    "src": "/assets/lexington-guide-photos/uptown-main.webp",
+    "author": "Kenneth C. Zirkel",
+    "date": "2017-10-30",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Lexington,_North_Carolina_Main_Street.jpg",
+    "changes": "Resized and converted to WebP."
+  },
+  {
+    "name": "erlanger-homes",
+    "src": "/assets/lexington-guide-photos/erlanger-homes.webp",
+    "author": "Kenneth C. Zirkel",
+    "date": "2017-10-30",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Erlanger_Mill_Village_Historic_District,_Lexington,_North_Carolina-4.jpg",
+    "changes": "Resized and converted to WebP."
+  },
+  {
+    "name": "food-lion",
+    "src": "/assets/lexington-guide-photos/food-lion.webp",
+    "author": "Nyttend",
+    "date": "2019-09-14",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lexington_Food_Lion.jpg",
+    "changes": "Resized and converted to WebP."
+  },
+  {
+    "name": "uptown-office",
+    "src": "/assets/lexington-guide-photos/uptown-office.webp",
+    "author": "Dennis Brown",
+    "date": "2008-11-15",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Updown_Lexington_Inc.jpg",
+    "changes": "Resized and converted to WebP."
+  }
 ]

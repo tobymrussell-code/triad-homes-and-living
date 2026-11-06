@@ -61,6 +61,11 @@ If you’re new to Lexington, start at **[2 North Main Street](https://www.googl
 
 ## A little perspective before you unpack
 
+<figure class="lex-photo lex-photo--right">
+  <img src="/assets/lexington-guide-photos/uptown-main.webp" srcset="/assets/lexington-guide-photos/uptown-main-480.webp 480w, /assets/lexington-guide-photos/uptown-main.webp 800w" sizes="(max-width: 760px) 85vw, 345px" width="800" height="461" alt="Brick storefronts and parked cars on Main Street in Uptown Lexington." loading="lazy" decoding="async">
+  <figcaption><span>Main Street in Uptown. Start with a walk, then see how the rest of your day fits around it.</span><small><a href="https://commons.wikimedia.org/wiki/File:Lexington,_North_Carolina_Main_Street.jpg">Kenneth C. Zirkel · 2017</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> · Resized.</small></figcaption>
+</figure>
+
 Here’s how I’d approach Lexington: give yourself a day to try the town on. Have lunch, walk Uptown, drive out toward the lake, and make one completely unglamorous stop at the grocery store. A place can be wonderful for a weekend and still make your weekday routine a pain. I’d rather you figure that out before you own a driveway here.
 
 The public conversations about this area pull in both directions. In a High Rock vacation discussion, one person who grew up by the lake described summers spent kayaking, fishing, and riding around on a pontoon. Other replies pointed out that Lexington has a smaller selection of indoor entertainment. In a separate discussion about visiting Midway, people suggested using Winston-Salem for museums and a longer list of things to do. Those are useful differences to think about when you’re deciding where to live. [High Rock visitor discussion · July 2024](https://www.reddit.com/r/NorthCarolina/comments/1dvcrm1/) · [Midway visitor discussion · February–March 2026](https://www.reddit.com/r/NorthCarolina/comments/1rhh1n8/traveling_to_midway/)
@@ -121,18 +126,23 @@ The first thing I look up is the parcel. A listing can say “Lexington” and b
 
 ### Uptown and established Lexington streets
 
+<figure class="lex-photo lex-photo--right">
+  <img src="/assets/lexington-guide-photos/erlanger-homes.webp" srcset="/assets/lexington-guide-photos/erlanger-homes-480.webp 480w, /assets/lexington-guide-photos/erlanger-homes.webp 800w" sizes="(max-width: 760px) 85vw, 345px" width="800" height="533" alt="A brick building with a shaded front porch in the Erlanger Mill Village Historic District." loading="lazy" decoding="async">
+  <figcaption><span>A street-level look at Lexington’s Erlanger Mill Village Historic District.</span><small><a href="https://commons.wikimedia.org/wiki/File:Erlanger_Mill_Village_Historic_District,_Lexington,_North_Carolina-4.jpg">Kenneth C. Zirkel · 2017</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> · Resized.</small></figcaption>
+</figure>
+
 I’d start with these streets if being near Uptown is part of the appeal. Walk from a house to somewhere you’d actually go, and pay attention to the whole route: sidewalks, crossings, traffic, and the walk back. Then do the less photogenic checks. Where does the second car go? Can guests park? Is there a rail crossing or busy road nearby? Older homes can have wonderful character, but I want the update history along with it. Ask about the roof, HVAC, wiring, plumbing, permits, crawlspace moisture, and where rainwater goes. Fresh paint is excellent at being fresh paint. It doesn’t answer those questions.
 
 ### Newer subdivisions and the edge of town
 
 A new house is appealing, especially if you’d rather spend your first few weekends unpacking than meeting repair contractors. I still want you to try the subdivision entrance during a normal workday. That quiet street may empty onto a road where your daily left turn takes some patience. Ask where future phases go, whether the road has been accepted for public maintenance, and who maintains drainage and common areas. **New subdivisions without an HOA do exist around Lexington, but they’re uncommon.** If that’s on your must-have list, tell me early. Get the HOA status and any recorded restrictions or shared-road agreements for the actual lot; “no HOA” doesn’t settle every property-use question. Where an HOA applies, read the dues and rules. Either way, get the warranty and the final price with lot premiums and upgrades included. [New construction near Lexington](/guides/new-construction-near-lexington-nc/) · [Buying with an HOA in NC](/guides/buying-home-with-hoa-nc/)
 
-<figure class="lex-photo">
-  <img src="/assets/area-winston-salem-toby.webp" srcset="/assets/area-winston-salem-toby-480.webp 480w, /assets/area-winston-salem-toby-800.webp 800w, /assets/area-winston-salem-toby.webp 1200w" sizes="(max-width: 760px) calc(100vw - 40px), 760px" width="1200" height="750" alt="Downtown Winston-Salem skyline, photographed by Toby Russell." loading="lazy" decoding="async">
+### Welcome, Midway, and Wallburg
+
+<figure class="lex-photo lex-photo--left">
+  <img src="/assets/area-winston-salem-toby.webp" srcset="/assets/area-winston-salem-toby-480.webp 480w, /assets/area-winston-salem-toby-800.webp 800w, /assets/area-winston-salem-toby.webp 1200w" sizes="(max-width: 760px) 85vw, 345px" width="1200" height="750" alt="Downtown Winston-Salem skyline, photographed by Toby Russell." loading="lazy" decoding="async">
   <figcaption><span>Winston-Salem belongs on your scouting route if it’s where you’ll work or spend your evenings.</span><small>Photo © Toby Russell</small></figcaption>
 </figure>
-
-### Welcome, Midway, and Wallburg
 
 Welcome and Midway sit along the US 52 side of northern Davidson County. Wallburg puts you on the NC 109 side, southeast of Winston-Salem. If Winston is where you work, eat out, or spend your weekends, these are worth a serious look. Here’s how they compare using the same downtown destination, Kaleideum. These are one-way estimates from public landmarks, without live traffic.
 
@@ -169,6 +179,11 @@ All estimates below start at the **[Visit Lexington visitor center, 2 N. Main St
 
 </div>
 
+<figure class="lex-photo lex-photo--right">
+  <img src="/assets/area-thomasville.webp" srcset="/assets/area-thomasville-480.webp 480w, /assets/area-thomasville-800.webp 800w, /assets/area-thomasville.webp 1200w" sizes="(max-width: 760px) 85vw, 345px" width="1200" height="938" alt="Downtown Thomasville with its clock tower and storefronts." loading="lazy" decoding="async">
+  <figcaption><span>Downtown Thomasville is one of the destinations in the drive-time table. Try the route at the hour you’d actually travel.</span><small><a href="https://commons.wikimedia.org/wiki/File:Thomasville,_North_Carolina_02.jpg">Indy beetle</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a></small></figcaption>
+</figure>
+
 **If you’re moving for Siemens Mobility**, its Lexington operation makes and services passenger rail equipment. Get the employee entrance and parking instructions from your employer, then measure from your prospective address to that gate. Do the same for hospital campuses and large industrial sites where the public pin can send you to the wrong entrance. [Siemens Mobility Lexington facility](https://www.mobility.siemens.com/us/en/company/locations/investing-in-the-future-of-rail-in-lexington-north-carolina.html) · [PTI airport information](https://flyfrompti.com/)
 
 **My commute test.** Use the same work entrance for every home. Leave at the time you’d actually leave, try the return trip, and add a grocery or pickup stop on the way. Write down your driveway-to-door time, how many difficult turns you made, and where you’d go if the highway were backed up. If 30 minutes is your limit, a 29-minute map result leaves you one minute for the world to be inconvenient. I’d test that one before calling it a match. [Triad commute planning guide](/guides/triad-commute-map/)
@@ -178,6 +193,11 @@ All estimates below start at the **[Visit Lexington visitor center, 2 N. Main St
 ## Grocery runs, healthcare, and the first week
 
 ### Groceries and everyday errands
+
+<figure class="lex-photo lex-photo--right">
+  <img src="/assets/lexington-guide-photos/food-lion.webp" srcset="/assets/lexington-guide-photos/food-lion-480.webp 480w, /assets/lexington-guide-photos/food-lion.webp 800w" sizes="(max-width: 760px) 85vw, 345px" width="800" height="532" alt="The Food Lion at Forest Hill Centre in Lexington, North Carolina." loading="lazy" decoding="async">
+  <figcaption><span>The Forest Hill Centre Food Lion is one of several grocery stops to try on your regular route.</span><small><a href="https://commons.wikimedia.org/wiki/File:Lexington_Food_Lion.jpg">Nyttend · 2019</a> · Public domain · Resized.</small></figcaption>
+</figure>
 
 This is the part of a relocation guide that rarely makes the pretty brochure. You will, however, buy milk more often than you visit a historic courthouse. I’d save a full grocery stop near the house, another on your work route, and a couple of local shops you want to try.
 
@@ -203,8 +223,8 @@ If you’re used to a long list of cuisines available late every night, that’s
 
 ### Start with Lexington-style barbecue
 
-<figure class="lex-photo lex-photo-food">
-  <img src="/assets/lexington-guide-photos/barbecue-plate.webp" srcset="/assets/lexington-guide-photos/barbecue-plate-480.webp 480w, /assets/lexington-guide-photos/barbecue-plate.webp 640w" sizes="(max-width:760px) calc(100vw - 48px), 340px" width="640" height="480" alt="A Lexington-style barbecue plate with chopped pork, red slaw, hush puppies, and baked beans." loading="lazy" decoding="async">
+<figure class="lex-photo lex-photo--left">
+  <img src="/assets/lexington-guide-photos/barbecue-plate.webp" srcset="/assets/lexington-guide-photos/barbecue-plate-480.webp 480w, /assets/lexington-guide-photos/barbecue-plate.webp 640w" sizes="(max-width: 760px) 85vw, 345px" width="640" height="480" alt="A Lexington-style barbecue plate with chopped pork, red slaw, hush puppies, and baked beans." loading="lazy" decoding="async">
   <figcaption><span>A little help with the menu: chopped pork, red slaw, and hush puppies.</span><small><a href="https://commons.wikimedia.org/wiki/File:North_Carolina_barbecue_hushpuppies_baked_beans_red_cole_slaw.jpg">Jeffery Loo, 2007</a> · <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a> · WebP conversion.</small></figcaption>
 </figure>
 
@@ -268,12 +288,12 @@ You don’t have to fill every weekend with a big attraction. I’d try one plac
 
 **Kayak rentals.** A single is **$15 for four hours** or **$25 for eight**. A tandem is **$25 for four hours** or **$40 for eight**. The county’s park page and fee list give different amounts for fishing from your own kayak. Call the park office using the number on the county park page to confirm that charge. Check the state’s fishing-license requirements before you go. [County park hours and fees](https://www.co.davidson.nc.us/facilities/facility/details/Lake-ThomALex-Park-11) · [County fee list](https://co.davidson.nc.us/1092/Rental-Fees) · [NC Wildlife fishing rules](https://www.ncwildlife.gov/hunting/fishing-hunting-trapping-regulations)
 
-<figure class="lex-photo ">
-  <img src="/assets/lexington-guide-photos/festival.webp" srcset="/assets/lexington-guide-photos/festival-480.webp 480w, /assets/lexington-guide-photos/festival-800.webp 800w, /assets/lexington-guide-photos/festival.webp 1200w" sizes="(max-width:760px) calc(100vw - 48px), 780px" width="1200" height="900" alt="An archival view of people browsing vendor tents during the Lexington Barbecue Festival." loading="lazy" decoding="async">
+### Uptown events worth putting on the calendar
+
+<figure class="lex-photo lex-photo--right">
+  <img src="/assets/lexington-guide-photos/festival.webp" srcset="/assets/lexington-guide-photos/festival-480.webp 480w, /assets/lexington-guide-photos/festival-800.webp 800w, /assets/lexington-guide-photos/festival.webp 1200w" sizes="(max-width: 760px) 85vw, 345px" width="1200" height="900" alt="An archival view of people browsing vendor tents during the Lexington Barbecue Festival." loading="lazy" decoding="async">
   <figcaption><span>Uptown on festival day. Enjoy the event—and come back to see an ordinary day, too.</span><small><a href="https://commons.wikimedia.org/wiki/File:Lexington_Barbecue_Festival_-_Crowd_1.jpg">Dennis Brown · 2008 festival</a> · <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a> · Resized.</small></figcaption>
 </figure>
-
-### Uptown events worth putting on the calendar
 
 The calendar matters here. A festival Saturday and an ordinary Wednesday are going to give you different impressions of the same streets. I’d enjoy the event, then come back for a normal day before deciding what living nearby would feel like.
 
@@ -282,12 +302,12 @@ The calendar matters here. A festival Saturday and an ordinary Wednesday are goi
 - **Classic-car cruise-ins.** Cruising Main Street brings classic cars and trucks to Uptown. You can walk the lineup and talk with the owners. The Barbecue Festival also hosts an antique car cruise-in. [Cruising Main Street](https://carcruisefinder.com/car-show/cruising-main-street-lexington/2025-09-09/) · [Festival antique car cruise-in](https://www.thebarbecuefestival.com/p/specialattractions)
 - **Uptown Christmas Parade.** Floats and local groups come down Main Street in December. The 2026 parade is scheduled for Monday, December 7 at 6 p.m. Check the Uptown calendar for updates before you head in. [Visit Lexington events](https://www.visitlexingtonnc.com/upcoming-events) · [Uptown events calendar](https://www.uptownlexington.com/events)
 
-<figure class="lex-photo ">
-  <img src="/assets/lexington-guide-photos/reynolda.webp" srcset="/assets/lexington-guide-photos/reynolda-480.webp 480w, /assets/lexington-guide-photos/reynolda-800.webp 800w, /assets/lexington-guide-photos/reynolda.webp 1200w" sizes="(max-width:760px) calc(100vw - 48px), 780px" width="1200" height="798" alt="The greenhouse and planted garden beds at Reynolda Gardens in Winston-Salem." loading="lazy" decoding="async">
+### Pick a half-day or a full day
+
+<figure class="lex-photo lex-photo--left">
+  <img src="/assets/lexington-guide-photos/reynolda.webp" srcset="/assets/lexington-guide-photos/reynolda-480.webp 480w, /assets/lexington-guide-photos/reynolda-800.webp 800w, /assets/lexington-guide-photos/reynolda.webp 1200w" sizes="(max-width: 760px) 85vw, 345px" width="1200" height="798" alt="The greenhouse and planted garden beds at Reynolda Gardens in Winston-Salem." loading="lazy" decoding="async">
   <figcaption><span>A change of scenery: Reynolda Gardens in Winston-Salem. Plan the gardens and museum around the visit you want.</span><small><a href="https://commons.wikimedia.org/wiki/File:Winston-Salem_-_Reynolda_Gardens_02.jpg">P. Hughes · October 2025</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Resized.</small></figcaption>
 </figure>
-
-### Pick a half-day or a full day
 
 Here’s where I’d start when you want a change of scenery. The times below use the same Uptown starting point as the commute table. Tap an outing to open the drive in Google Maps. Check operating hours, parking, and tickets for your visit date.
 
@@ -313,7 +333,12 @@ Two more ideas if you have room on the calendar. **[High Point Rockers baseball]
 
 ## What changes from one Lexington address to the next
 
-This is where I put the pretty pictures down and start asking for records. Two houses can share a Lexington mailing address and leave you with different taxes, utilities, and maintenance jobs. I’d want these six answers before we get too attached.
+<figure class="lex-photo lex-photo--right">
+  <img src="/assets/area-davidson-county.webp" srcset="/assets/area-davidson-county-480.webp 480w, /assets/area-davidson-county-800.webp 800w, /assets/area-davidson-county.webp 1200w" sizes="(max-width: 760px) 85vw, 345px" width="1200" height="625" alt="Exterior of the Davidson County Courthouse in Lexington." loading="lazy" decoding="async">
+  <figcaption><span>The Davidson County Courthouse in Lexington. Start with the county’s online parcel and tax records when comparing two addresses.</span><small><a href="https://commons.wikimedia.org/wiki/File:Davidson_County_NC_Courthouse.jpg">Dennis Brown · 2008</a> · <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a> · Resized.</small></figcaption>
+</figure>
+
+This is where I start asking for records. Two houses can share a Lexington mailing address and leave you with different taxes, utilities, and maintenance jobs. I’d want these six answers before we get too attached.
 
 1. **City limits and the tax bill.** I start with the parcel ID and the current bill. Confirm the taxing jurisdictions and whether a city or district charge applies. Ask for an estimate for your situation if the current owner has a special valuation or exemption, the house is newly built, or the tax record appears to cover land only. [County GIS](https://webgis.co.davidson.nc.us/davidsongis/) · [Davidson County tax bill search](https://taxsearch.co.davidson.nc.us/TaxBillSearch)
 2. **Utilities and trash.** Let’s pin down electricity, water, sewer or septic, and how the house is heated before you’re standing in the kitchen on moving day. Lexington Utilities operates electric, gas, water, and sewer systems, with service availability by address. Davidson Water is another provider in the area. Ask which company or agency serves that lot and whether any tap, hookup, or deposit is due. For city waste service, use the address lookup for collection day and the recycling calendar for your week. Check separately how bulk items and yard debris are handled. [Lexington Utilities](https://www.lexingtonnc.gov/utilities) · [Davidson Water contact listing](https://business.thomasvillechamber.net/list/member/davidson-water-inc-1676) · [City recycling and waste](https://www.lexingtonnc.gov/utilities-services/recycling-waste)
@@ -322,12 +347,12 @@ This is where I put the pretty pictures down and start asking for records. Two h
 5. **Internet, mobile service, and access.** Look up the address on the FCC map, then ask the provider for an installation date and any costs to extend service to the house. Test your phone inside the house and in the driveway. A beautiful home office gets less impressive if your video calls keep freezing. For a shared or private drive, ask your closing attorney to review the recorded access and maintenance terms. [How to use the FCC broadband map](https://help.bdc.fcc.gov/hc/en-us/articles/10467446103579-How-to-Use-the-FCC-s-National-Broadband-Map)
 6. **The monthly cost.** I’d compare the full payment alongside your utility, insurance, HOA, and maintenance estimates. The list price is only the opening conversation. For example, an older in-town house with a pending roof replacement and a rural home with a long private drive can each add costs that won’t appear in the list price. Ask for recent utility bills and get an address-specific insurance quote early. [Davidson County home budget guide](/guides/how-much-house-can-i-afford-davidson-county/)
 
-<figure class="lex-photo ">
-  <img src="/assets/lexington-guide-photos/high-rock.webp" srcset="/assets/lexington-guide-photos/high-rock-480.webp 480w, /assets/lexington-guide-photos/high-rock-800.webp 800w, /assets/lexington-guide-photos/high-rock.webp 1200w" sizes="(max-width:760px) calc(100vw - 48px), 780px" width="1200" height="753" alt="Wooded banks reflected in a cove on the Abbotts Creek arm of High Rock Lake." loading="lazy" decoding="async">
+## High Rock Lake: the appeal and the homework
+
+<figure class="lex-photo lex-photo--left">
+  <img src="/assets/lexington-guide-photos/high-rock.webp" srcset="/assets/lexington-guide-photos/high-rock-480.webp 480w, /assets/lexington-guide-photos/high-rock-800.webp 800w, /assets/lexington-guide-photos/high-rock.webp 1200w" sizes="(max-width: 760px) 85vw, 345px" width="1200" height="753" alt="Wooded banks reflected in a cove on the Abbotts Creek arm of High Rock Lake." loading="lazy" decoding="async">
   <figcaption><span>The Abbotts Creek side of High Rock Lake. Water levels, debris, and conditions change; visit the cove you’re considering.</span><small><a href="https://commons.wikimedia.org/wiki/File:Abbottscreek-northend.png">Dennis Brown · October 2008</a> · Public domain · Resized.</small></figcaption>
 </figure>
-
-## High Rock Lake: the appeal and the homework
 
 I understand the appeal of finishing work and being able to head for the water. In a public visitor discussion, a former lake-area resident described summer days of kayaking, fishing, and pontoon rides. That’s a useful picture of the lifestyle. Before buying into it, I’d spend time at the particular cove, dock, and access road you’re considering. [High Rock visitor discussion · July 2024](https://www.reddit.com/r/NorthCarolina/comments/1dvcrm1/)
 
@@ -350,6 +375,11 @@ If you’ve bought in another state, let’s talk through the North Carolina pap
 - **Line up the checks early.** Talk to your lender about timing, get an insurance quote, and schedule inspections early enough to act on what they find. Depending on the property, that can include a survey, septic and well checks, crawlspace or structural work, and reviews of permits, restrictions, and access. A seller’s “No Representation” answer is a reason to do your own checking. [NC Real Estate Commission disclosure example](https://bulletins.ncrec.gov/case-study-material-facts-5/) · [Home inspection guide](/guides/home-inspection-north-carolina/)
 
 ## A first scouting trip that tells you something
+
+<figure class="lex-photo lex-photo--right">
+  <img src="/assets/lexington-guide-photos/uptown-office.webp" srcset="/assets/lexington-guide-photos/uptown-office-480.webp 480w, /assets/lexington-guide-photos/uptown-office.webp 800w" sizes="(max-width: 760px) 85vw, 345px" width="800" height="506" alt="Historic photograph of a brick storefront and painted pig sculptures on North Main Street." loading="lazy" decoding="async">
+  <figcaption><span>A 2008 look at North Main Street. On your Saturday scouting trip, give yourself time to see what’s there today.</span><small><a href="https://commons.wikimedia.org/wiki/File:Updown_Lexington_Inc.jpg">Dennis Brown · 2008</a> · <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a> · Resized.</small></figcaption>
+</figure>
 
 **Friday afternoon.** I’d try to get here in time to drive from a sample home to your job or another regular stop. Drive back at the end of the workday, swing into the grocery store you’d actually use, and look at the home’s parking and street lighting after dark.
 
