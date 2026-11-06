@@ -20,6 +20,8 @@ Edit only `config/brokerage.js` and supply the approved new logo asset as descri
 
 Markdown guides are in `src/guides/` with title, description, slug, publication/modification dates, primary keyword, area slugs, FAQ entries, and explicit related guide slugs. Keep 2–4 related guides, maintain links in both directions with the relevant area definitions in `lib/content.js`, and merge competing primary topics instead of creating duplicate articles. Area definitions and their unique metadata are in `lib/content.js`.
 
+For every street address shown in a guide, make the address text a clickable map link. For a drive-time example, link the destination and any displayed destination address to driving directions from the stated origin. Use a verified public address for both ends and check the links in the rendered guide.
+
 ## Current contact behavior
 
 The current HubSpot form embed and its public portal/form identifiers are preserved. Call and Text alternatives remain visible, including when JavaScript is disabled. The migration does not submit a test lead or change the HubSpot account, recipients, or consent configuration. Verify actual form receipt with an authorized real test after the domain is connected. `config/site.js` still has no confirmed professional email; none has been invented.
