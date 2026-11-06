@@ -17,7 +17,7 @@
     "new-construction-near-lexington-nc"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-11-05",
+  "dateModified": "2026-11-06",
   "editorialStatus": "reviewed",
   "faq": [
     {
@@ -180,6 +180,8 @@ All estimates below start at the **[Visit Lexington visitor center, 2 N. Main St
 
 Lexington-style barbecue is pork shoulder, and the local vinegar-based sauce is called **dip**. If the menu offers chopped or sliced, that’s how the meat is served. Try red slaw and hush puppies with it. If you’re comparing barbecue places, order the same basic plate or sandwich at two stops so you can taste the difference. The city’s tourism office keeps a list that includes places outside Uptown too. [Visit Lexington’s barbecue guide](https://www.visitlexingtonnc.com/barbecue)
 
+One diner on Reddit recommends ordering “coarse chopped outside brown” at Lexington Barbecue or Barbecue Center. The outside brown is the smoky outer layer of the pork shoulder. Ask for some mixed in if you like a smokier bite. [Reddit barbecue discussion](https://www.reddit.com/r/Charlotte/comments/1xf4w5e/good_real_bbq_places/) · [Lexington barbecue ordering terms](https://www.newsobserver.com/news/local/article280174629.html)
+
 - **Lexington Barbecue, [100 Smokehouse Lane](https://www.google.com/maps/search/?api=1&query=100+Smokehouse+Lane%2C+Lexington%2C+NC).** A good first stop for a chopped pork plate and a chance to try the local dip. [Restaurant and menu](https://www.lexbbq.com/)
 - **Barbecue Center, [900 N. Main St.](https://www.google.com/maps/search/?api=1&query=900+N.+Main+St.%2C+Lexington%2C+NC)** Start with barbecue and split a banana split if you still have room. The restaurant’s roots were in a dairy and ice cream shop. [Barbecue Center](https://barbecuecenter.net/)
 - **Speedy’s Barbecue, [408 Piedmont Dr.](https://www.google.com/maps/search/?api=1&query=408+Piedmont+Dr.%2C+Lexington%2C+NC)** Another in-town stop. When searching, use the street address. **Speedy Lohr’s** is a different barbecue restaurant on NC 8. [Visit Lexington’s barbecue listings](https://www.visitlexingtonnc.com/barbecue)
@@ -192,6 +194,8 @@ Lexington-style barbecue is pork shoulder, and the local vinegar-based sauce is 
 - **Goose and the Monkey Brewhouse, [401 S. Railroad St.](https://www.google.com/maps/search/?api=1&query=401+S.+Railroad+St.%2C+Lexington%2C+NC)** A Depot District stop for local beer, espresso, and food. Check the kitchen’s hours when planning a meal. [Goose and the Monkey](https://gooseandthemonkeybrewhouse.com/)
 - **Sophie’s Cork & Ale, [23 W. Second Ave.](https://www.google.com/maps/search/?api=1&query=23+W.+Second+Ave.%2C+Lexington%2C+NC)** A sit-down dinner option just off Main Street. Check the current menu and hours before you go. [Sophie’s Cork & Ale](https://sophiescorkandale.com/)
 - **Childress Vineyards Bistro, [1000 Childress Vineyards Rd.](https://www.google.com/maps/search/?api=1&query=1000+Childress+Vineyards+Rd.%2C+Lexington%2C+NC)** Think lunch or a tasting visit. The bistro lists daytime hours, so plan your meal around its schedule. Check reservations and group rules if people are coming with you. [Childress Vineyards visitor information](https://childressvineyards.com/visiting/)
+
+In a 2022 Reddit trip report, a visitor went from lunch at Childress Vineyards to Uptown antique shops and then Goose and the Monkey. By the time they went back to browse, shops were already closing. If you’re making the same loop, check the individual shop hours and fit in the browsing before dinner. [Lexington day-trip report on Reddit](https://www.reddit.com/r/NorthCarolina/comments/w6jw1e/)
 
 ### A few more stops worth saving
 
@@ -253,6 +257,8 @@ The times below use the same Uptown starting point as the commute table. Tap an 
 
 </div>
 
+At Tanglewood’s Festival of Lights, one visitor said the entrance line was the slowest part of the evening. Another reported shorter waits when they went right at opening on a Tuesday. Forsyth County posts live entrance cameras along with the show’s hours and admission. [2025 visitor discussion on Reddit](https://www.reddit.com/r/gso/comments/1po83v2/tanglewood/) · [Festival of Lights traffic cameras and admission](https://www.forsyth.cc/parks/tanglewood/fol/)
+
 Two more ideas if you have room on the calendar. **[High Point Rockers baseball](https://www.google.com/maps/dir/?api=1&origin=2+N+Main+St%2C+Lexington%2C+NC+27292&destination=301+N+Elm+St%2C+High+Point%2C+NC+27262&travelmode=driving)** is at Truist Point, about **26 minutes** away using the stadium address above. Check the game schedule and parking. **[Greensboro Science Center](https://www.google.com/maps/dir/?api=1&origin=2+N+Main+St%2C+Lexington%2C+NC+27292&destination=4301+Lawndale+Dr%2C+Greensboro%2C+NC+27455&travelmode=driving)** is about **50 minutes** from the same starting point if you want a longer outing with an aquarium, museum, and zoo. [High Point Rockers](https://highpointrockers.com/) · [Greensboro Science Center hours and admission](https://www.greensboroscience.org/hours-prices/)
 
 ## What changes from one Lexington address to the next
@@ -267,6 +273,8 @@ Two more ideas if you have room on the calendar. **[High Point Rockers baseball]
 ## High Rock Lake has its own buying checklist
 
 **What comes downriver.** High Rock is the first of the four Yadkin Hydroelectric Project reservoirs. Downstream are Tuckertown, Narrows (Badin Lake), and Falls. The Yadkin and its tributaries carry silt and storm debris into High Rock. Silt can settle where the river slows, and floating or partly submerged logs can be hard to see. If you’re comparing lake houses, look at the cove from shore after a hard rain and ask how often debris collects by the dock. [Federal reservoir order](https://cubecarolinas.com/wp-content/uploads/2019/02/FERC_Approval_2-4-2019.pdf) · [Yadkin Riverkeeper field report](https://yadkin-riverkeeper.squarespace.com/news/2026/8/28/day-10-high-rock-lake) · [High Rock Lake Association navigation alerts](https://www.hrla.com/Safety-and-Navigation)
+
+Someone who had lived on High Rock told a Reddit visitor that they spent summer days kayaking, fishing, and going out on a pontoon. In a separate fishing discussion, a commenter pointed out how hard it can be to spot debris after dark. If you expect to boat in the evening, try the run from the launch to the dock in daylight first. [Lake visit discussion on Reddit](https://www.reddit.com/r/NorthCarolina/comments/1dvcrm1/) · [High Rock fishing discussion on Reddit](https://www.reddit.com/r/NorthCarolina/comments/1elvamg/)
 
 **Water quality.** North Carolina DEQ has documented years of water-quality problems at High Rock, including excessive algae, cloudy water, and pH outside state standards. The state is developing a nutrient management strategy for the lake and its watershed. If you’re planning to swim or paddle, check current advisories and stay out of discolored or scummy water. [NC DEQ High Rock Lake nutrient strategy](https://www.deq.nc.gov/about/divisions/water-resources/water-planning/nonpoint-source-planning/high-rock-lake-nutrient-management-strategy) · [NC DEQ algal bloom reports](https://www.deq.nc.gov/about/divisions/water-resources/water-sciences-section/algal-blooms)
 
