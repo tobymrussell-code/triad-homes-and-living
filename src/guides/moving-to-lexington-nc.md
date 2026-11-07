@@ -74,6 +74,19 @@ If a lake afternoon, a familiar lunch place, and an occasional trip into Winston
 
 <aside class="lex-pullquote" aria-label="Toby’s house-hunting advice"><p>Try the town on a Tuesday before you fall in love with it on a Saturday.</p><span>TOBY RUSSELL · REALTOR®</span></aside>
 
+<aside class="lexington-local-voices" aria-labelledby="lexington-local-voices-title">
+  <p class="eyebrow">LOCAL VOICES</p>
+  <h3 id="lexington-local-voices-title">What people gripe about</h3>
+  <p>I asked about Lexington in the LEXINGTON, NC Facebook group, and people had opinions. Here’s what came up in those replies and a couple of other public discussions.</p>
+  <ul>
+    <li><strong>Dinner takes a little planning.</strong> A few people wanted more variety, including one who moved from New York. Another replied with favorites like Thai House Bistro and Lexington Barbecue and said they often head to Salisbury or Winston-Salem for date night. If you’re here on a Sunday, save two options and check the hours before everybody’s hungry. <a href="#section-6">Where to eat</a></li>
+    <li><strong>Grocery choices depend on what you buy.</strong> One newcomer wished for more grocery options but chose Lexington because the location worked for both commutes. Another said the smaller selection was a trade-off they were happy to make. Try your regular grocery run from the house you’re considering. <a href="#section-5">Grocery stops</a></li>
+    <li><strong>Rainy days and things for teens to do.</strong> One Facebook reply wanted a better park and more things for teenagers to do. Indoor options also came up in a separate public discussion. On a scouting trip, pick something you’d actually do on a rainy Saturday and see how far you’d go for it. <a href="#section-7">Parks and nearby outings</a></li>
+    <li><strong>Growth is changing some of the scenery.</strong> A couple of replies took issue with new subdivisions or the loss of farmland and green space. If the open view is part of why you like a house, look up the neighboring parcel and check for filed plans. The view comes free in the listing photo. It may have a different future. <a href="#section-3">Compare the surrounding areas</a></li>
+    <li><strong>High Rock can look different after a storm.</strong> In a separate fishing discussion, one angler warned about spotting debris after dark. If you’re shopping for a lake house, look at the actual cove from shore after a hard rain. The listing photos probably picked a prettier day. <a href="#section-9">What to check at the lake</a></li>
+  </ul>
+</aside>
+
 ## Get oriented before you tour houses
 
 Lexington is the Davidson County seat in North Carolina’s Piedmont Triad. You don’t need to memorize every back road before you visit. I’d start with these five pieces of the map. Tap any map to open it at full size.
@@ -395,6 +408,11 @@ If you came here from the buyer questionnaire, use this guide to flag two places
 </details>
 
 <style>
+.lexington-local-voices { clear: both; margin: 2.25rem 0; padding: clamp(1rem, 3vw, 2rem); border-block: 1px solid var(--line); border-top: 3px solid var(--gold); background: var(--wash); }
+.lexington-local-voices .eyebrow { margin-bottom: .5rem; font: 700 .69rem/1.5 system-ui, sans-serif; letter-spacing: .16em; }
+.lexington-magazine .lexington-local-voices h3 { margin: 0 0 .75rem; font-size: clamp(1.55rem, 3vw, 2rem); }
+.lexington-local-voices ul { margin-bottom: 0; }
+.lexington-local-voices li + li { margin-top: .65rem; }
 .lexington-author { display: grid; grid-template-columns: clamp(84px, 16%, 120px) 1fr; align-items: start; gap: clamp(.75rem, 2.5vw, 1.4rem); margin: 1.5rem 0 2rem; }
 .lexington-author img { width: 100%; border-radius: 50%; border: 2px solid var(--gold); }
 .lexington-author p { margin: 0; }
