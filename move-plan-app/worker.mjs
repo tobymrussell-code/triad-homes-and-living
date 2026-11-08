@@ -1,6 +1,6 @@
 import {OWNER,ORIGIN,GUIDE,fields,cleanInput,buyer,validateArea,approvalProblems,cityKey} from './core.mjs';
 import {generatePlan} from './engine.mjs';
-import {page,formPage,thanksPage,authPage,planPage,adminPage,clientScript,mapScript} from './views.mjs';
+import {page,formPage,thanksPage,authPage,planPage,adminPage,reviewSummary,clientScript,mapScript} from './views.mjs';
 const now=()=>Date.now();
 export const token=()=>[...crypto.getRandomValues(new Uint8Array(32))].map(n=>n.toString(16).padStart(2,'0')).join('');
 export async function hash(value){return [...new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(value)))].map(n=>n.toString(16).padStart(2,'0')).join('');}
@@ -123,7 +123,7 @@ async function adminAPI(request,env,ctx,path){
   }
   const id=path.split('/').pop();const lead=await env.DB.prepare('SELECT * FROM leads WHERE id=?').bind(id).first();
   if(!lead)throw new HttpError(404,'Request not found.');
-  return json({...lead,data:JSON.parse(lead.data),plan:lead.plan?JSON.parse(lead.plan):null});
+  return json({...lead,data:JSON.parse(lead.data),plan:lead.plan?JSON.parse(lead.plan):null,reviewHtml:reviewSummary(lead)});
  }
  const body=await input(request);
  if(path==='/api/admin/area'){

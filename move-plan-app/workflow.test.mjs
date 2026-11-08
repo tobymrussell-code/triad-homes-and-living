@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import {DatabaseSync} from 'node:sqlite';
 import {readFileSync} from 'node:fs';
 import worker,{drain} from './worker.mjs';
+import {reviewSummary} from './views.mjs';
 import {ORIGIN,fields,eligible,rankAndChoose,approvalProblems} from './core.mjs';
 class D1 {
  constructor(){this.db=new DatabaseSync(':memory:');this.db.exec(readFileSync(new URL('./schema.sql',import.meta.url),'utf8'));}
@@ -53,6 +54,8 @@ test('private access, approval and durable delivery through normal APIs',async()
   await req('/api/admin-login',{});await settle();const adminToken=sent.findLast(s=>s.subject.includes('dashboard')).text.match(/#token=([a-f0-9]+)/)[1];
   r=await req('/api/verify',{token:adminToken});const adminCookie=r.headers.get('Set-Cookie').split(';')[0];
   assert.equal((await req('/api/admin/overview',undefined,adminCookie)).status,200);
+  const review=await (await req('/api/admin/lead/'+lead.id,undefined,adminCookie)).json();assert.match(review.reviewHtml,/What this client asked for/);assert.match(review.reviewHtml,/Their personalized Move Plan/);assert.match(review.reviewHtml,/All questionnaire answers/);assert.match(review.reviewHtml,/\$450,000/);assert.match(review.reviewHtml,/Open full buyer page and map/);assert.equal((review.reviewHtml.match(/<article/g)||[]).length,4);
+  const escaped=reviewSummary({...lead,data:JSON.stringify({...JSON.parse(lead.data),firstname:'<img src=x onerror=alert(1)>'}),plan:JSON.stringify({...JSON.parse(lead.plan),welcome:'<script>alert(1)</script>'})});assert.ok(!escaped.includes('<script>'));assert.ok(escaped.includes('&lt;script&gt;'));
   assert.equal((await req('/api/admin/area',{...seed[0],id:'new-area'},adminCookie)).status,200);
   assert.equal((await req('/api/admin/city',{id:'lexington',name:'Lexington',guide:'https://triadhomesliving.com/guides/moving-to-lexington-nc/',resources:[{title:'Official city',url:'https://www.lexingtonnc.gov/'}]},adminCookie)).status,200);
   assert.equal((await req('/api/admin/area',{...seed[0],source:'javascript:alert(1)'},adminCookie)).status,400);
