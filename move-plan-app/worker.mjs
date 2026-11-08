@@ -149,7 +149,7 @@ async function adminAPI(request,env,ctx,path){
  }
  if(path==='/api/admin/regenerate'){
   if(!lead.verified)throw new HttpError(409,'The buyer needs to verify their email first.');
-  await env.DB.prepare("UPDATE leads SET status='NEW',revision=revision+1,lease_until=0,updated_at=? WHERE id=? AND revision=?").bind(now(),lead.id,lead.revision).run();ctx.waitUntil(processQueue(env));return json({ok:true});
+  await env.DB.prepare("UPDATE leads SET status='NEW',plan=NULL,error=NULL,revision=revision+1,lease_until=0,updated_at=? WHERE id=? AND revision=?").bind(now(),lead.id,lead.revision).run();ctx.waitUntil(processQueue(env));return json({ok:true});
  }
  if(path==='/api/admin/approve'){
   if(lead.status!=='DRAFT'||!lead.verified)throw new HttpError(409,'Only a verified buyer’s draft can be approved.');
