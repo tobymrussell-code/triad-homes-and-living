@@ -37,9 +37,11 @@ test('private access, approval and durable delivery through normal APIs',async()
   const bad=new Request(ORIGIN+'/api/intake',{method:'POST',headers:{Origin:'https://bad.example','Content-Type':'application/json'},body:JSON.stringify(body)});
   assert.equal((await worker.fetch(bad,env,ctx)).status,403);
   let r=await req('/api/intake',body);assert.equal(r.status,201);const result=await r.json();await settle();
+  const simultaneous=await Promise.all([req('/api/intake',{...body,request_key:'concurrent-request-123'}),req('/api/intake',{...body,request_key:'concurrent-request-123'})]);assert.deepEqual(simultaneous.map(r=>r.status).sort(),[200,201]);await settle();
+  const extra=await env.DB.prepare('SELECT id FROM leads WHERE request_key=?').bind('concurrent-request-123').first();await env.DB.prepare('DELETE FROM leads WHERE id=?').bind(extra.id).run();
   const duplicate=await req('/api/intake',body);assert.equal((await duplicate.json()).id,result.id);
   assert.equal((await env.DB.prepare('SELECT count(*) n FROM leads').first()).n,1);
-  assert.equal(sent.length,1);assert.equal(sent[0].to,sample.email);
+  assert.equal(sent.length,2);assert.equal(sent[0].to,sample.email);
   assert.equal((await req('/api/admin/overview')).status,401);
   assert.ok((await (await req('/move-plan/'+result.id)).text()).includes('Open your private Move Plan'));
   const verifyToken=sent[0].text.match(/#token=([a-f0-9]+)/)[1];
@@ -51,6 +53,10 @@ test('private access, approval and durable delivery through normal APIs',async()
   await req('/api/admin-login',{});await settle();const adminToken=sent.findLast(s=>s.subject.includes('dashboard')).text.match(/#token=([a-f0-9]+)/)[1];
   r=await req('/api/verify',{token:adminToken});const adminCookie=r.headers.get('Set-Cookie').split(';')[0];
   assert.equal((await req('/api/admin/overview',undefined,adminCookie)).status,200);
+  assert.equal((await req('/api/admin/area',{...seed[0],id:'new-area'},adminCookie)).status,200);
+  assert.equal((await req('/api/admin/city',{id:'lexington',name:'Lexington',guide:'https://triadhomesliving.com/guides/moving-to-lexington-nc/',resources:[{title:'Official city',url:'https://www.lexingtonnc.gov/'}]},adminCookie)).status,200);
+  assert.equal((await req('/api/admin/area',{...seed[0],source:'javascript:alert(1)'},adminCookie)).status,400);
+  assert.equal((await req('/api/admin/city',{id:'bad',name:'Bad',resources:[{title:'Bad',url:'javascript:alert(1)'}]},adminCookie)).status,400);
   const plan=JSON.parse(lead.plan);const save=await req('/api/admin/save',{id:lead.id,revision:1,plan,note:'Looking forward to comparing these with you.'},adminCookie);assert.equal(save.status,200);
   assert.equal((await req('/api/admin/approve',{id:lead.id,revision:1},adminCookie)).status,409);
   const outcomes=await Promise.all([req('/api/admin/approve',{id:lead.id,revision:2,deliverAt:Date.now()+100000},adminCookie),req('/api/admin/approve',{id:lead.id,revision:2,deliverAt:Date.now()+100000},adminCookie)]);
