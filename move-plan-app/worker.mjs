@@ -100,7 +100,7 @@ export async function processQueue(env){
     await env.DB.prepare("UPDATE leads SET plan=?,status='DRAFT',error=NULL,lease_until=0,updated_at=? WHERE id=? AND revision=? AND status='GENERATING'").bind(JSON.stringify(plan),now(),lead.id,lead.revision).run();
     await enqueue(env,`draft:${lead.id}:${lead.revision}`,'email',lead.id,{to:OWNER,subject:`Move Plan draft ready · ${JSON.parse(lead.data).firstname}`,text:`A new Move Plan draft is ready for your review.\n\nOpen your dashboard: ${ORIGIN}/admin\n\n${plan.areas.length} supported locations. ${plan.warnings.length} review items.\n\nApprove the plan only after checking the sources, matched workplace and stops, and route estimates. The buyer has not been sent their plan.`});
     await audit(env,lead.id,'draft_generated');
-   }catch(error){await env.DB.prepare("UPDATE leads SET status='DRAFT',error=?,lease_until=0,updated_at=? WHERE id=? AND revision=?").bind('Generation failed. Update the answers or area data and retry.',now(),lead.id,lead.revision).run();}
+   }catch(error){await env.DB.prepare("UPDATE leads SET status='DRAFT',error=?,lease_until=0,updated_at=? WHERE id=? AND revision=?").bind('Generation failed. Update the answers or area data and retry.',now(),lead.id,lead.revision).run();await enqueue(env,`draft-error:${lead.id}:${lead.revision}`,'email',lead.id,{to:OWNER,subject:'Move Plan request needs attention',text:`A verified buyer request could not finish generating. It is saved as a draft for your review. No plan was sent to the buyer. Open your dashboard to check the answers, area data, and location services, then retry: ${ORIGIN}/admin`});}
   }
  }finally{await env.DB.prepare("DELETE FROM rate_limits WHERE key='generation-lock'").run();}
  await drain(env);

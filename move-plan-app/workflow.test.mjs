@@ -73,6 +73,8 @@ test('private access, approval and durable delivery through normal APIs',async()
   await req('/api/admin/retry-delivery',{id:job.id},adminCookie);await settle();
   assert.equal((await env.DB.prepare('SELECT status FROM leads').first()).status,'SENT');
   assert.ok(sent.at(-1).text.includes('Looking forward to comparing these with you.'));
+  const failed=await req('/api/intake',{...body,request_key:'failed-generation-1234',buyer_guide__work_address_or_city:'999 Unknown Avenue Lexington NC'});const failedId=(await failed.json()).id;await settle();const ft=sent.findLast(m=>m.subject==='Confirm your email for your Move Plan').text.match(/#token=([a-f0-9]+)/)[1];await req('/api/verify',{token:ft});await settle();
+  const failedLead=await env.DB.prepare('SELECT status,error FROM leads WHERE id=?').bind(failedId).first();assert.equal(failedLead.status,'DRAFT');assert.ok(failedLead.error);assert.ok(sent.some(m=>m.subject==='Move Plan request needs attention'));
  }finally{globalThis.fetch=originalFetch;}
 });
 test('stale evidence, budget, yard and separation prevent unsupported matches',()=>{
