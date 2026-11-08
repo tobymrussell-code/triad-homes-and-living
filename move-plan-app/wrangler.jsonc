@@ -1,0 +1,13 @@
+{
+  "name": "triad-move-plans",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-11-08",
+  "account_id": "c4dceca298b4b3abd16e7e4bbfba605c",
+  "workers_dev": false,
+  "routes": [{"pattern":"move.triadhomesliving.com","custom_domain":true}],
+  "d1_databases": [{"binding":"DB","database_name":"triad-move-plans","database_id":"ad16b0d8-4449-4746-a3ce-af6706bfa3bc"}],
+  "ai": {"binding":"AI"},
+  "send_email": [{"name":"EMAIL","allowed_sender_addresses":["toby@plans.triadhomesliving.com"]}],
+  "triggers": {"crons":["*/5 * * * *"]},
+  "observability": {"enabled":true,"logs":{"enabled":true,"invocation_logs":false},"redact_query_string":true}
+}

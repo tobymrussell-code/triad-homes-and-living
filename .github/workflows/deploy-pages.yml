@@ -26,6 +26,8 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - run: npm ci
+      - name: Check Move Plan access and delivery workflow
+        run: node --test move-plan-app/workflow.test.mjs
       - name: Build static HTML for the actual Pages URL
         run: npm run build
         env:
