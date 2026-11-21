@@ -10,5 +10,5 @@ const endpoint='https://api.github.com/repos/'+repo+'/pages';
 const headers={Authorization:'Bearer '+process.env.GITHUB_TOKEN,Accept:'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','Content-Type':'application/json'};
 const current=await fetch(endpoint,{headers});if(!current.ok)throw new Error('Could not read Pages configuration: '+current.status);
 const site=await current.json();
-if(site.cname!==domain){const updated=await fetch(endpoint,{method:'PUT',headers,body:JSON.stringify({cname:domain})});if(!updated.ok)throw new Error('Could not update Pages custom domain: '+updated.status);}
+if(site.cname!==domain)throw new Error('Set the Pages custom domain to '+domain+' in the repository Settings > Pages. The workflow token cannot edit this setting.');
 console.log('Pages primary domain configured: '+domain);

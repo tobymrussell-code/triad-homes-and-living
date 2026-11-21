@@ -22,10 +22,6 @@ jobs:
         with:
           node-version: '24'
           cache: npm
-      - name: Configure primary domain after DNS delegation
-        run: node scripts/configure-primary-domain.mjs
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
       - name: Configure Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -35,12 +31,11 @@ jobs:
       - name: Build static HTML for the actual Pages URL
         run: npm run build
         env:
-          SITE_ORIGIN: https://triadhomesandliving.com
-          CUSTOM_DOMAIN: triadhomesandliving.com
+          SITE_ORIGIN: ${{ steps.pages.outputs.origin }}${{ steps.pages.outputs.base_path }}
       - name: Check the generated site
         run: npm run verify
         env:
-          SITE_ORIGIN: https://triadhomesandliving.com
+          SITE_ORIGIN: ${{ steps.pages.outputs.origin }}${{ steps.pages.outputs.base_path }}
       - name: Upload static website only
         uses: actions/upload-pages-artifact@v4
         with:
