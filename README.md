@@ -1,6 +1,8 @@
 # Triad Homes and Living
 
-Toby Russell’s static real estate website, hosted in a dedicated repository on GitHub Pages. Domain registration stays with GoDaddy; DNS is intended to move to Cloudflare. The purchased custom domain is **triadhomesliving.com**.
+Toby Russell’s static real estate website, hosted in a dedicated repository on GitHub Pages. The current primary public domain is **triadhomesandliving.com**.
+
+The public lead tools are `/mortgage-calculator/` and `/home-value/`. The mortgage calculator is free to use without contact information; its short HubSpot form is optional. The home-value page queries Davidson County's public address and qualified-sales GIS layers and deliberately does not generate an automated valuation. Nearby public sales are starting points, not an appraisal or CMA.
 
 This migration starts from the latest Sites source commit `9804b7d6536b69011d2a380fe10890dc8855b848` (version 9). It preserves the 42 pages, 18 Markdown guides, HubSpot inquiry form, Call/Text alternatives, reviews, area photographs, YouTube embed, supplied portrait and brokerage logo, and phone 336-203-8961. All deployed assets are byte-for-byte copies of the latest source. Unmodified originals and the former source repository are retained in the private migration backup rather than published here.
 
