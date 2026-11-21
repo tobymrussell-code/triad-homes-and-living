@@ -1,6 +1,8 @@
-# Primary domain change — prepared, awaiting GoDaddy delegation
+# Primary domain change — registrar and GitHub settings activated
 
 New primary: https://triadhomesandliving.com
+
+Owner confirmed the GitHub Pages custom domain and successful DNS check. HTTPS returned 200 for the new homepage. Rebuilding the site refreshes canonical URLs and the sitemap; old-domain redirects and Move Plan links are verified separately during cutover.
 Old primary: https://triadhomesliving.com
 
 Cloudflare account: c4dceca298b4b3abd16e7e4bbfba605c

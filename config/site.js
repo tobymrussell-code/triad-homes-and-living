@@ -3,7 +3,7 @@ module.exports = {
   phone: '336-203-8961', email: 'tobymrussell@gmail.com',
   origin: (process.env.SITE_ORIGIN || 'https://triadhomesandliving.com').replace(/^http:/, 'https:').replace(/\/$/, ''),
   // The deployment workflow supplies the active hosting origin.
-  // Primary public domain after the staged migration: triadhomesandliving.com.
+  // Primary public domain: triadhomesandliving.com.
   image: '/assets/toby-headshot.webp', imageWidth: 1280, imageHeight: 1280,
   shareImage: '/assets/triad-homes-social.webp', shareImageWidth: 1200, shareImageHeight: 630,
   formEndpoint: null, // Set an HTTPS POST handler before enabling direct submissions.
