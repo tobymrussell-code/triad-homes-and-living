@@ -1,7 +1,8 @@
 # Personalized Move Plans
 
-Production intake: https://move.triadhomesliving.com/
-Review desk: https://move.triadhomesliving.com/admin
+Production intake: https://move.triadhomesandliving.com/
+Legacy buyer links on move.triadhomesliving.com continue to use the same protected app and database.
+Review desk: https://move.triadhomesandliving.com/admin
 
 The public local guide stays open. Its calls to action lead to the questionnaire. Answers are saved in D1 and sent to the existing HubSpot questionnaire form. Email confirmation unlocks generation; Cloudflare Workers AI writes the welcome and fit notes using deterministic matches from the maintained Areas records. Drafts require Toby's review and explicit approval. Delivery defaults to the day after intake; the editor can choose another time. A five-minute cron drains the durable queue.
 

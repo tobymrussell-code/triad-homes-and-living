@@ -4,7 +4,7 @@ import {DatabaseSync} from 'node:sqlite';
 import {readFileSync} from 'node:fs';
 import worker,{drain} from './worker.mjs';
 import {reviewSummary} from './views.mjs';
-import {ORIGIN,fields,eligible,rankAndChoose,approvalProblems} from './core.mjs';
+import {ORIGIN,LEGACY_ORIGIN,fields,eligible,rankAndChoose,approvalProblems} from './core.mjs';
 class D1 {
  constructor(){this.db=new DatabaseSync(':memory:');this.db.exec(readFileSync(new URL('./schema.sql',import.meta.url),'utf8'));}
  prepare(sql){const db=this.db;let args=[];return {bind(...values){args=values;return this;},async first(){return db.prepare(sql).get(...args)||null;},async all(){return {results:db.prepare(sql).all(...args)};},async run(){const x=db.prepare(sql).run(...args);return {meta:{changes:Number(x.changes)}};}};}
@@ -78,6 +78,8 @@ test('private access, approval and durable delivery through normal APIs',async()
   assert.ok(sent.at(-1).text.includes('Looking forward to comparing these with you.'));
   const failed=await req('/api/intake',{...body,request_key:'failed-generation-1234',buyer_guide__work_address_or_city:'999 Unknown Avenue Lexington NC'});const failedId=(await failed.json()).id;await settle();const ft=sent.findLast(m=>m.subject==='Confirm your email for your Move Plan').text.match(/#token=([a-f0-9]+)/)[1];await req('/api/verify',{token:ft});await settle();
   const failedLead=await env.DB.prepare('SELECT status,error FROM leads WHERE id=?').bind(failedId).first();assert.equal(failedLead.status,'DRAFT');assert.ok(failedLead.error);assert.ok(sent.some(m=>m.subject==='Move Plan request needs attention'));
+  const legacy=new Request(LEGACY_ORIGIN+'/api/intake',{method:'POST',headers:{Origin:LEGACY_ORIGIN,'Content-Type':'application/json'},body:JSON.stringify(body)});assert.equal((await worker.fetch(legacy,env,ctx)).status,200);
+  const crossHost=new Request(LEGACY_ORIGIN+'/api/intake',{method:'POST',headers:{Origin:ORIGIN,'Content-Type':'application/json'},body:JSON.stringify(body)});assert.equal((await worker.fetch(crossHost,env,ctx)).status,403);
  }finally{globalThis.fetch=originalFetch;}
 });
 test('stale evidence, budget, yard and separation prevent unsupported matches',()=>{

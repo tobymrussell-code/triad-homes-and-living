@@ -1,4 +1,4 @@
-import {OWNER,ORIGIN,GUIDE,fields,cleanInput,buyer,validateArea,approvalProblems,cityKey} from './core.mjs';
+import {OWNER,ORIGIN,LEGACY_ORIGIN,GUIDE,fields,cleanInput,buyer,validateArea,approvalProblems,cityKey} from './core.mjs';
 import {generatePlan} from './engine.mjs';
 import {page,formPage,thanksPage,authPage,planPage,adminPage,reviewSummary,clientScript,mapScript} from './views.mjs';
 const now=()=>Date.now();
@@ -170,7 +170,7 @@ async function adminAPI(request,env,ctx,path){
 async function handle(request,env,ctx){
  const url=new URL(request.url),path=url.pathname;
  if(request.method==='POST'){
-  if(request.headers.get('Origin')!==ORIGIN)throw new HttpError(403,'Please submit from the Move Plan website.');
+  if(request.headers.get('Origin')!==url.origin||![ORIGIN,LEGACY_ORIGIN].includes(url.origin))throw new HttpError(403,'Please submit from the Move Plan website.');
   await rate(env,'ip:'+await hash(request.headers.get('CF-Connecting-IP')||'unknown'),30,600);
  }
  if(path==='/health')return json({ok:true,service:'triad-move-plans'});

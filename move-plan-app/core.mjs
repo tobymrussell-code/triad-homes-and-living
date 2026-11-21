@@ -1,5 +1,6 @@
 export const OWNER = 'tobymrussell@gmail.com';
-export const ORIGIN = 'https://move.triadhomesliving.com';
+export const ORIGIN = 'https://move.triadhomesandliving.com';
+export const LEGACY_ORIGIN = 'https://move.triadhomesliving.com';
 export const GUIDE = 'https://triadhomesandliving.com/guides/moving-to-lexington-nc/';
 export const fields = [
  ['firstname','First name','text'], ['lastname','Last name','text'], ['email','Email','email'], ['phone','Phone (optional)','tel',false],
