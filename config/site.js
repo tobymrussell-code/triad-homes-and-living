@@ -1,9 +1,9 @@
 module.exports = {
   name: 'Toby Russell', title: 'REALTOR®', license: '305135', licensedSince: '2016',
   phone: '336-203-8961', email: 'tobymrussell@gmail.com',
-  origin: (process.env.SITE_ORIGIN || 'https://tobymrussell-code.github.io/triad-homes-and-living').replace(/^http:/, 'https:').replace(/\/$/, ''),
+  origin: (process.env.SITE_ORIGIN || 'https://triadhomesandliving.com').replace(/^http:/, 'https:').replace(/\/$/, ''),
   // The deployment workflow supplies the active hosting origin.
-  // Purchased custom domain: triadhomesliving.com. Keep the Pages URL until DNS is connected.
+  // Primary public domain after the staged migration: triadhomesandliving.com.
   image: '/assets/toby-headshot.webp', imageWidth: 1280, imageHeight: 1280,
   shareImage: '/assets/triad-homes-social.webp', shareImageWidth: 1200, shareImageHeight: 630,
   formEndpoint: null, // Set an HTTPS POST handler before enabling direct submissions.
