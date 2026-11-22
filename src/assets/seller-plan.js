@@ -3,6 +3,7 @@
   if (!landing) return;
   const formId = '87a347c6-6db2-4e54-8680-6f7a938a85af';
   const service = landing.querySelector('#seller-service');
+  const address = landing.querySelector('#seller-address');
   const error = landing.querySelector('[data-seller-error]');
   let form;
   let submitted = false;
@@ -10,12 +11,14 @@
     try {
       form?.setExtraSubmissionMetadata({
         requested_service: service.value,
+        property_address: address.value.trim(),
         landing_page: location.pathname,
         source_content: 'fix-up-house-before-selling'
       });
     } catch { /* The inquiry can still be submitted through the native form. */ }
   };
   service.addEventListener('change', metadata);
+  address.addEventListener('change', metadata);
   window.addEventListener('hs-form-event:on-ready', event => {
     if (event.detail?.formId !== formId) return;
     try { form = window.HubSpotFormsV4?.getFormFromEvent(event); } catch {}
@@ -23,6 +26,12 @@
   });
   const complete = () => {
     if (submitted) return;
+    if (!address.value.trim()) {
+      error.textContent = 'Add the property address above so the guide request can be connected to the right house.';
+      error.hidden = false;
+      address.focus();
+      return;
+    }
     submitted = true;
     error.hidden = true;
     landing.querySelector('[data-seller-confirmation]').hidden = false;
