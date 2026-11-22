@@ -18,7 +18,7 @@
     "usda-loans-davidson-county-nc"
   ],
   "datePublished": "2026-10-28",
-  "dateModified": "2026-11-01",
+  "dateModified": "2026-11-22",
   "editorialStatus": "reviewed",
   "faq": [
     {
@@ -61,7 +61,7 @@ A long-standing rule of thumb is the **28/36 rule**: keep your total housing pay
 
 ## How do you calculate your Triad home budget?
 
-Start with four numbers, in this order:
+Use my [mortgage payment calculator](/mortgage-calculator/) to compare scenarios. It is an estimate, not a lender approval. Start with four numbers, in this order:
 
 1. **Your income.** It sets the top of the range.
 2. **Your monthly debts.** Each car payment is money a lender won't count toward a mortgage.

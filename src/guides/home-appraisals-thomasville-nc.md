@@ -15,7 +15,7 @@
     "buying-home-north-carolina"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-10-12",
+  "dateModified": "2026-11-22",
   "editorialStatus": "starter-draft",
   "faq": [
     {
@@ -52,6 +52,10 @@ Discuss timing, access, and potential financing questions before you need an ans
 
 Gather the most recent survey if available, a list of permitted improvements, major system ages, and receipts for documented upgrades. Confirm bedroom counts and heated square footage from reliable records instead of making unsupported claims. Ask your agent to provide relevant nearby sales, including differences in condition, acreage, and utility systems. An appraiser reaches an independent opinion; neither the list price nor a renovation invoice guarantees the appraised value.
 
-## Related local resources and next steps
+## Need a starting point for your selling plan?
+
+My [home-value page](/home-value/) explains how to request a local pricing review. For the property details behind the comparisons, read my [Thomasville area guide](/areas/thomasville-nc/). If repairs are part of the decision, [request a CMA and repair review](/seller-improvement-plan/).
+
+## Local resources and next steps
 
 For more background, read [pricing triad home](/guides/pricing-triad-home/), [buying home north carolina](/guides/buying-home-north-carolina/). You can also explore [Triad area guides](/areas/) or [ask Toby about your specific home or move](/contact/). For a quick conversation, call or text **336-203-8961**. Local pricing, taxes, legal requirements, and property condition should be confirmed against current records before making decisions.

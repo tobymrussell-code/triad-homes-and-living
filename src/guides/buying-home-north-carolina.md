@@ -18,7 +18,7 @@
     "north-carolina-buyer-beware"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-10-12",
+  "dateModified": "2026-11-22",
   "editorialStatus": "starter-draft",
   "faq": [
     {
@@ -29,7 +29,9 @@
       "question": "Who should explain legal contract questions?",
       "answer": "A North Carolina attorney should answer property-specific legal questions. Your agent can help organize the transaction questions and deadlines."
     }
-  ]
+  ],
+  "youtubeVideoId": "8UPd8fObzF8",
+  "youtubeVideoTitle": "Buying a Home in North Carolina? What Out-of-State Buyers Miss"
 }
 ---
 

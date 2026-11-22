@@ -17,8 +17,8 @@
     "due-diligence-fees-nc"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-10-12",
-  "editorialStatus": "starter-draft",
+  "dateModified": "2026-11-22",
+  "editorialStatus": "reviewed",
   "faq": [
     {
       "question": "Does buyer-beware mean nobody has disclosure duties?",
@@ -28,7 +28,9 @@
       "question": "What is the most useful first step?",
       "answer": "Create a property-specific list of unknowns and schedule the appropriate checks within your contract deadlines."
     }
-  ]
+  ],
+  "youtubeVideoId": "8UPd8fObzF8",
+  "youtubeVideoTitle": "Buying a Home in North Carolina? What Out-of-State Buyers Miss"
 }
 ---
 
@@ -40,11 +42,11 @@ Investigate condition, boundaries, access, services, restrictions, and intended 
 
 ## Does a disclosure replace an inspection?
 
-A disclosure and an inspection answer different questions. Read the available disclosure, then plan the checks appropriate to the property. Ask a specialist when the general inspection cannot resolve an important issue.
+A disclosure and an inspection answer different questions. My [home inspection guide](/guides/home-inspection-north-carolina/) explains how to organize the property checks, including when to bring in a specialist. Read the available disclosure, then plan the checks appropriate to the property. Ask a specialist when the general inspection cannot resolve an important issue.
 
 ## How do deadlines affect the plan?
 
-Schedule records review and inspections around the deadlines in your signed agreement. Allow time to understand findings and get estimates. Learning about a problem after a decision deadline can change your options.
+Start with my [due diligence fee guide](/guides/due-diligence-fees-nc/), then schedule records review and inspections around the deadlines in your signed agreement. Allow time to understand findings and get estimates. Learning about a problem after a decision deadline can change your options.
 
 ## Who should answer a legal or technical question?
 
@@ -52,7 +54,7 @@ Use a North Carolina attorney for legal questions and a qualified specialist for
 
 ## Document each verification step
 
-For each shortlisted home, compare seller disclosures, property records, and inspection findings. Confirm roof, drainage, foundations, permitted additions, boundaries, HOA rules, and rural well or septic systems as appropriate. Track contractual deadlines and consult your agent and a North Carolina attorney about questions before committing funds.
+For each shortlisted home, compare seller disclosures, property records, and inspection findings. For rural homes, add the [well and septic checklist](/guides/buying-well-septic-davidson-county/); for a subdivision, read the [HOA guide](/guides/buying-home-with-hoa-nc/). Confirm roof, drainage, foundations, permitted additions, boundaries, HOA rules, and rural well or septic systems as appropriate. Track contractual deadlines and consult your agent and a North Carolina attorney about questions before committing funds.
 
 ## Local resources and next steps
 

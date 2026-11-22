@@ -18,7 +18,7 @@
     "selling-house-needs-repairs-nc"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-11-01",
+  "dateModified": "2026-11-22",
   "editorialStatus": "reviewed",
   "faq": [
     {
@@ -49,15 +49,15 @@ A useful price comes from the homes a buyer could compare with yours today. Star
 
 ## Which comparisons should matter?
 
-Use relevant current and closed property comparisons with attention to location, condition, size, and features. Ask why each comparison belongs in the analysis. A county-wide average can hide the details that make your home different.
+Use relevant current and closed property comparisons with attention to location, condition, size, and features. Ask why each comparison belongs in the analysis. A county-wide average can hide the details that make your home different. My [Thomasville area guide](/areas/thomasville-nc/) and [Lexington area guide](/areas/lexington-nc/) explain some of the location and service differences to investigate.
 
 ## How does condition affect the plan?
 
-Evaluate known work and buyer questions before choosing a price. Compare written repair estimates with pricing scenarios. Avoid assuming a buyer will overlook an expensive unknown because the paint is fresh.
+Evaluate known work and buyer questions before choosing a price. Compare written repair estimates with pricing scenarios using the questions in my [pre-sale improvement guide](/guides/fix-up-house-before-selling/). Avoid assuming a buyer will overlook an expensive unknown because the paint is fresh.
 
 ## Should you price around the amount you need?
 
-Understand your estimated net proceeds, then compare that goal with the evidence buyers will use. Ask about payoff and closing costs through appropriate professionals. Your desired net is a planning question, not proof of market value.
+Understand your estimated net proceeds, then compare that goal with the evidence buyers will use. Ask about payoff and closing costs through appropriate professionals. Your desired net is a planning question, not proof of market value. If you still have a loan, read [selling a house with a mortgage](/guides/selling-house-with-mortgage-nc/) before estimating what you will keep.
 
 ## What should you review after listing?
 

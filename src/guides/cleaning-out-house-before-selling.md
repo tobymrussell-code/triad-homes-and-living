@@ -16,7 +16,7 @@
     "selling-inherited-house-davidson-county"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-10-12",
+  "dateModified": "2026-11-22",
   "editorialStatus": "starter-draft",
   "faq": [
     {
@@ -53,6 +53,10 @@ Evaluate condition, access, and preparation after the space is clear. A cleanout
 
 Start with documents, keys, medications, family keepsakes, and anything needed for an estate or ownership review. Photograph each room before hauling items away. Divide the work into keep, donate, sell, recycle, and dispose categories; ask local disposal services about accepted materials and costs. If an inherited home is involved, confirm who has authority to distribute belongings. Before paying for a full cleanout, compare the likely listing presentation with what an as-is buyer may accept.
 
-## Related local resources and next steps
+## Before you pay for the whole cleanout
+
+Decide how you plan to sell before deciding how much to clear, repair or replace. Compare [listing a house that needs work](/guides/selling-house-needs-repairs-nc/) with [targeted improvements](/guides/fix-up-house-before-selling/), or [request my CMA and repair review](/seller-improvement-plan/) for a property-specific starting point.
+
+## Local resources and next steps
 
 For more background, read [selling house needs repairs nc](/guides/selling-house-needs-repairs-nc/), [selling inherited house davidson county](/guides/selling-inherited-house-davidson-county/). You can also explore [Triad area guides](/areas/) or [ask Toby about your specific home or move](/contact/). For a quick conversation, call or text **336-203-8961**. Local pricing, taxes, legal requirements, and property condition should be confirmed against current records before making decisions.

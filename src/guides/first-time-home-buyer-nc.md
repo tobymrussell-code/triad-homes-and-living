@@ -18,7 +18,7 @@
     "closing-costs-north-carolina"
   ],
   "datePublished": "2024-11-14",
-  "dateModified": "2026-11-01",
+  "dateModified": "2026-11-22",
   "editorialStatus": "reviewed",
   "faq": [
     {
@@ -84,6 +84,10 @@ Pick your top two or three areas based on your commute, budget, and lifestyle. Y
 
 Budget for property taxes and insurance changes, set up an emergency fund for repairs, and keep up with routine maintenance like HVAC filters, gutters, and, on rural homes, septic pumping.
 
-## Ready to start?
+## Put the budget and location together
+
+Try my [mortgage payment calculator](/mortgage-calculator/), then compare the [Thomasville area guide](/areas/thomasville-nc/) and [Lexington area guide](/areas/lexington-nc/). Keep the payment and the trips you make every week in the same conversation. A house can fit the loan approval and still be a lousy fit for your Tuesday.
+
+## Local resources and next steps
 
 If you're thinking about buying your first home, I'll walk you through the whole thing, map, money, and contract, before you tour a single house. Not sure yet? Read [renting vs buying in Davidson County](/guides/renting-vs-buying-davidson-county/). Call or text **336-203-8961**, or [send me a message](/contact/).

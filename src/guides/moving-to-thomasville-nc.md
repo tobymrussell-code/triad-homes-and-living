@@ -17,7 +17,7 @@
     "buying-home-north-carolina"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-11-01",
+  "dateModified": "2026-11-22",
   "editorialStatus": "reviewed",
   "faq": [
     {
@@ -48,7 +48,7 @@ Before choosing a Thomasville home, run seven checks that are harder to undo tha
 
 ## 1. Does the route fit your normal week?
 
-Test the route from the actual Thomasville address to work and regular errands. Check it when you expect to travel and include the trip home. A town-center estimate leaves out the part you’ll drive every day.
+Use my [Triad commute checklist](/guides/triad-commute-map/) to test the route from the actual Thomasville address to work and regular errands. Check it when you expect to travel and include the trip home. A town-center estimate leaves out the part you’ll drive every day.
 
 If your route uses NC 109 or the Business 85 corridor, check the access from the home rather than treating the highway name as a promise of convenience. The [Thomasville Chamber’s downtown directions](https://www.thomasvillechamber.net/everybodys-day.php) identify the NC 109 and Business 85 approach. Use current navigation for your actual trip.
 
@@ -62,7 +62,7 @@ Confirm water, sewer or well and septic, electricity, and internet at the proper
 
 ## 4. What does the house need soon?
 
-Review condition and plan inspections before treating the house as move-in ready. Ask about roof, mechanical systems, drainage, and known work. Get written estimates for repairs that could affect your decision.
+Use my [North Carolina home inspection guide](/guides/home-inspection-north-carolina/) to plan inspections before treating the house as move-in ready. Ask about roof, mechanical systems, drainage, and known work. Get written estimates for repairs that could affect your decision.
 
 ## 5. Does the financing fit this property?
 
@@ -70,11 +70,11 @@ Discuss the actual property with your lender, including its condition and any sp
 
 ## 6. What will ownership cost?
 
-Build a property-specific estimate of payment, verified taxes, insurance, utilities, maintenance, and applicable association costs. Compare those figures consistently. Leave room for the work you already know about.
+Try my [mortgage payment calculator](/mortgage-calculator/) to compare payment scenarios, then add verified taxes, insurance, utilities, maintenance, and applicable association costs for the property. Compare those figures consistently. Leave room for the work you already know about.
 
 ## 7. Do you understand the offer?
 
-Review representation, contract money, deadlines, and inspection responsibilities before signing. Ask your agent and North Carolina attorney about terms you don’t understand. Don’t learn the important clause after you need it.
+Read about [buyer agency agreements](/guides/buyer-agency-agreements-nc/) and [due diligence fees](/guides/due-diligence-fees-nc/), then review the money, deadlines, and inspection responsibilities in your own agreement before signing. Ask your agent and North Carolina attorney about terms you don’t understand. Don’t learn the important clause after you need it.
 
 ## Questions worth asking on a Thomasville home tour
 

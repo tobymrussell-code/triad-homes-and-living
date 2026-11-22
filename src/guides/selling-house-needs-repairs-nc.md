@@ -16,7 +16,7 @@
     "cleaning-out-house-before-selling"
   ],
   "datePublished": "2026-10-12",
-  "dateModified": "2026-11-01",
+  "dateModified": "2026-11-22",
   "editorialStatus": "reviewed",
   "faq": [
     {
@@ -43,7 +43,7 @@ A house that needs repairs still deserves a clear selling plan. Start by finding
 
 ## Do you have to repair everything before listing?
 
-Compare the work with its expected effect on the sale rather than assuming every repair is necessary. Get written estimates and discuss financing or condition issues that could affect buyers. Cosmetic preferences and unresolved system problems need different treatment.
+Compare the work with its expected effect on the sale rather than assuming every repair is necessary. Get written estimates and discuss financing or condition issues that could affect buyers. Cosmetic preferences and unresolved system problems need different treatment. My [repair-or-sell guide](/guides/fix-up-house-before-selling/) helps you sort the work before spending.
 
 ## What does listing as is require you to think through?
 
@@ -51,7 +51,7 @@ Think through condition information, buyer expectations, access for inspections,
 
 ## How should you compare an as-is offer with a listing?
 
-Compare written terms and estimated net proceeds after costs, repairs, and timing. Review contingencies, closing obligations, and any assignment language with an attorney. A simpler-looking offer still needs a close read.
+Compare written terms and estimated net proceeds after costs, repairs, and timing. Start with [how I approach pricing a Triad home](/guides/pricing-triad-home/), then compare the options for your property. Review contingencies, closing obligations, and any assignment language with an attorney. A simpler-looking offer still needs a close read.
 
 ## What should you do first?
 
@@ -81,7 +81,7 @@ For each option, estimate **sale price minus repair expense, selling and closing
 
 Toby Russell is a licensed North Carolina real estate agent and is also associated with America Home Buyers, a separate house-buying business. A direct purchase offer is different from hiring an agent to list your property. Clarify the role, relationship, and any potential conflicts before entering an agreement, and consider independent representation or legal advice where appropriate.
 
-If you have a property in Thomasville, Lexington, or Davidson County that needs work, [request a comparison of your options](/contact/) or call **336-203-8961**. You don't have to start repairs before asking for a realistic assessment.
+If you have a property in Thomasville, Lexington, or Davidson County that needs work, [request my CMA and repair review](/seller-improvement-plan/) or call **336-203-8961**. You don't have to start repairs before asking for a realistic assessment.
 
 ## What does selling a house as-is mean in North Carolina?
 
