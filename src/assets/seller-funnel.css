@@ -1,0 +1,24 @@
+.seller-landing-screen .main-nav,.seller-landing-screen .breadcrumbs,.seller-landing-screen .site-footer,.seller-request-screen .main-nav,.seller-request-screen .breadcrumbs,.seller-request-screen .site-footer{display:none}
+.seller-landing-screen,.seller-request-screen{min-height:100svh}
+.seller-landing-screen .site-header,.seller-request-screen .site-header{border:0}
+.seller-landing-screen .header-row,.seller-request-screen .header-row{padding-block:12px;min-height:76px}
+.seller-landing-screen .seller-plan-hero{min-height:calc(100svh - 76px)}
+.seller-landing-screen .seller-plan-hero-inner{padding-block:24px}
+.seller-landing-screen .seller-plan-hero h1{font-size:clamp(2.4rem,5.2vw,4.8rem)}
+.seller-landing-screen .seller-plan-hero-copy{max-width:590px;padding-block:12px}
+.seller-request-page{max-width:600px;padding-block:24px 40px}
+.seller-request-page>.seller-plan-request{margin-top:16px}
+.seller-request-page .seller-plan-request h2{font-size:2rem;margin-top:0}
+@media(max-width:800px){
+ .seller-landing-screen .seller-plan-hero{display:grid;grid-template-rows:minmax(0,1fr) auto;height:calc(100svh - 76px);min-height:0;background:#101c2d;color:#fff}
+ .seller-landing-screen .seller-plan-hero-inner{grid-row:1;order:initial;padding-block:16px;align-items:center}
+ .seller-landing-screen .seller-plan-hero-copy{padding:0}
+ .seller-landing-screen .seller-plan-hero h1{font-size:clamp(1.85rem,7.7vw,3.2rem);color:#fff;line-height:1.02}
+ .seller-landing-screen .seller-plan-hero-kicker{font-size:clamp(.95rem,2.8vw,1.2rem);color:#fff;margin-bottom:8px}
+ .seller-landing-screen .seller-plan-hero .lead{font-size:1rem;color:#fff;margin-block:8px}
+ .seller-landing-screen .seller-plan-hero .eyebrow{font-size:.75rem;margin:0 0 10px;color:#f0cf73}
+ .seller-landing-screen .seller-plan-trust{display:none}
+ .seller-landing-screen .seller-plan-hero-image{grid-row:2;order:initial;height:clamp(120px,27svh,260px);width:100%;object-fit:cover;object-position:center 42%;aspect-ratio:auto}
+ .seller-landing-screen .seller-plan-hero .button{margin-top:8px;font-size:.9rem}
+}
+@media(max-height:600px) and (min-width:801px){.seller-landing-screen .seller-plan-hero h1{font-size:2.5rem}.seller-landing-screen .seller-plan-trust{display:none}}
