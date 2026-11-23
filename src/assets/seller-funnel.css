@@ -22,3 +22,9 @@
  .seller-landing-screen .seller-plan-hero .button{margin-top:8px;font-size:.9rem}
 }
 @media(max-height:600px) and (min-width:801px){.seller-landing-screen .seller-plan-hero h1{font-size:2.5rem}.seller-landing-screen .seller-plan-trust{display:none}}
+.seller-landing-screen .seller-plan-hero .button{display:inline-flex;align-items:center;justify-content:center;min-height:66px;padding:18px 30px;margin-top:16px;background:#ffcf24;color:#101c2d;border:2px solid #ffe994;border-radius:10px;font-size:clamp(1.05rem,1.5vw,1.2rem);font-weight:800;line-height:1.25;text-align:center;text-decoration:none;box-shadow:0 5px 0 #b77d00,0 10px 30px rgba(0,0,0,.38),0 0 25px rgba(255,207,36,.22);transition:transform .18s ease,box-shadow .18s ease,background .18s ease}
+.seller-landing-screen .seller-plan-hero .button:hover{background:#ffe16a;color:#101c2d;transform:translateY(-3px);box-shadow:0 8px 0 #b77d00,0 14px 34px rgba(0,0,0,.4),0 0 30px rgba(255,207,36,.35)}
+.seller-landing-screen .seller-plan-hero .button:focus-visible{outline:3px solid #fff;outline-offset:6px}
+.seller-landing-screen .seller-plan-hero .button:active{transform:translateY(3px);box-shadow:0 2px 0 #b77d00,0 5px 15px rgba(0,0,0,.3)}
+@media(max-width:800px){.seller-landing-screen .seller-plan-hero .button{width:100%;min-height:60px;padding:16px 18px;margin-top:12px;font-size:1.05rem}}
+@media(prefers-reduced-motion:reduce){.seller-landing-screen .seller-plan-hero .button{transition:none}}
