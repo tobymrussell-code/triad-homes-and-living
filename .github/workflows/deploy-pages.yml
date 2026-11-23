@@ -28,14 +28,14 @@ jobs:
       - run: npm ci
       - name: Check Move Plan access and delivery workflow
         run: node --test move-plan-app/workflow.test.mjs
-      - name: Build static HTML for the actual Pages URL
+      - name: Build static HTML for the production domain
         run: npm run build
         env:
-          SITE_ORIGIN: ${{ steps.pages.outputs.origin }}${{ steps.pages.outputs.base_path }}
+          SITE_ORIGIN: https://triadhomesandliving.com
       - name: Check the generated site
         run: npm run verify
         env:
-          SITE_ORIGIN: ${{ steps.pages.outputs.origin }}${{ steps.pages.outputs.base_path }}
+          SITE_ORIGIN: https://triadhomesandliving.com
       - name: Upload static website only
         uses: actions/upload-pages-artifact@v4
         with:
@@ -43,3 +43,19 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Smoke test seller improvement landing page
+        run: |
+          set -euo pipefail
+          url="https://triadhomesandliving.com/seller-improvement-plan/"
+          for attempt in 1 2 3 4 5 6; do
+            body="$(curl -fsSL --retry 2 --retry-delay 2 "$url" || true)"
+            if printf '%s' "$body" | grep -Fq 'What Should You Fix Before Selling Your House?'; then
+              echo "Seller improvement landing page is live and contains the expected headline."
+              exit 0
+            fi
+            echo "Attempt $attempt did not return the expected page; retrying."
+            sleep 5
+          done
+          echo "Public seller improvement page did not contain the expected headline."
+          curl -ILsS "$url" || true
+          exit 1
